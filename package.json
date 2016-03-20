@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Project Nestor",
   "scripts": {
-    "start": "webpack-dev-server --colors --inline --content-base src"
+    "start": "webpack-dev-server --colors --inline --content-base src",
+    "start-pi": "webpack-dev-server --colors --inline --content-base src --host 0.0.0.0"
   },
   "author": "olivier@mungo.eu",
   "license": "MIT",
