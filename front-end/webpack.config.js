@@ -1,7 +1,5 @@
 var os = require('os');
 
-console.log('XXXX', getIp());
-
 module.exports = {
   entry: './src/boot.ts',
   output: {
@@ -17,6 +15,7 @@ module.exports = {
   },
   module: {
     loaders: [
+      { test: /\.ts$/, loader: 'string-replace', query: { search: 'localhost', replace: getIp() }},
       { test: /\.ts$/, loader: 'ts-loader' },
       { test: /\.css$/, loader: 'style!css?sourceMap' },
       { test: /\.woff(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/font-woff' },
@@ -24,7 +23,7 @@ module.exports = {
       { test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/octet-stream' },
       { test: /\.eot(\?v=\d+\.\d+\.\d+)?$/, loader: 'file' },
       { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=image/svg+xml' },
-      { test: /\.html$/, loader: 'html' }
+//      { test: /\.html$/, loader: 'html' }
     ]
   },
   noParse: [ /.+zone\.js\/dist\/.+/, /.+angular2\/bundles\/.+/ ]
