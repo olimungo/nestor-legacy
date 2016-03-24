@@ -15,7 +15,7 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.ts$/, loader: 'string-replace', query: { search: 'localhost', replace: getIp() }},
+      { test: /\.ts$/, loader: 'string-replace', query: { search: 'localhost', replace: getIp(), flags: 'g' }},
       { test: /\.ts$/, loader: 'ts-loader' },
       { test: /\.css$/, loader: 'style!css?sourceMap' },
       { test: /\.woff(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/font-woff' },

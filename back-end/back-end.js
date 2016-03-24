@@ -6,6 +6,7 @@ var currentTemperature = 22,
     targetTemperature = currentTemperature;
     
 function getIp() {
+console.log('XXXX');
   var interfaces = os.networkInterfaces(),
       adresses = null,
       ipV4 = 'localhost';
@@ -20,11 +21,15 @@ function getIp() {
     })[0].address;
   }
   
+console.log('ZZZZZZZ', ipV4);
   return ipV4;
 }
 
+getIp();
+
 // Add headers
 app.use(function (req, res, next) {
+console.log('AAAAAA');
     // Website you wish to allow to connect
     res.setHeader('Access-Control-Allow-Origin', 'http://' + getIp() + ':8080');
 
