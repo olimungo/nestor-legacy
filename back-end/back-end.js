@@ -1,13 +1,32 @@
+var os = require('os');
 var express = require('express');
 var app = express();
 
 var currentTemperature = 22,
     targetTemperature = currentTemperature;
+    
+function getIp() {
+  var interfaces = os.networkInterfaces(),
+      adresses = null,
+      ipV4 = 'localhost';
+  
+  if (interfaces.hasOwnProperty('wlan0')) {
+    adresses = interfaces['wlan0'];
+  }
+  
+  if (adresses) {
+    ipV4 = adresses.filter(function (address) {
+      return address.family === 'IPv4';
+    })[0].address;
+  }
+  
+  return ipV4;
+}
 
 // Add headers
 app.use(function (req, res, next) {
     // Website you wish to allow to connect
-    res.setHeader('Access-Control-Allow-Origin', 'http://192.168.0.18:8080');
+    res.setHeader('Access-Control-Allow-Origin', 'http://' + getIp() + ':8080');
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');

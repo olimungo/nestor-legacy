@@ -103,7 +103,7 @@ export class Manual {
   }
   
   getTargetTemperature() {
-    this.http.get('http://192.168.0.18:3000/temperature/target/get/')
+    this.http.get('http://localhost:3000/temperature/target/get/')
       .subscribe(response => {
         console.log(response.json().value);
         this.targetTemperature = response.json().value;
@@ -114,7 +114,7 @@ export class Manual {
   changeTargetTemperature(step) {
     var newTemperature = this.targetTemperature + step;
     
-    this.http.get('http://192.168.0.18:3000/temperature/target/set/' + newTemperature)
+    this.http.get('http://localhost:3000/temperature/target/set/' + newTemperature)
       .subscribe(response => {
         this.targetTemperature = newTemperature;
         
@@ -130,7 +130,7 @@ export class Manual {
       this.lightState = 'on';
     }
 
-    this.http.get('http://192.168.0.18:3000/light/' + this.lightState)
+    this.http.get('http://localhost:3000/light/' + this.lightState)
       .subscribe(response => {
         console.log(response.json());
       } 
