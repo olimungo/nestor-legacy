@@ -4,7 +4,8 @@
   "description": "The font-end part of Project Nestor",
   "scripts": {
     "start": "webpack-dev-server --colors --inline --content-base src",
-    "start-pi": "webpack-dev-server --colors --inline --content-base src --host 0.0.0.0"
+    "start-pi": "webpack-dev-server --colors --inline --content-base src --host 0.0.0.0",
+    "start-pi2": "webpack-dev-server --colors --inline --content-base src --host raspberrypi"
   },
   "author": "olivier@mungo.eu",
   "license": "MIT",

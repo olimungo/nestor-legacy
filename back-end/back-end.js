@@ -7,7 +7,7 @@ var currentTemperature = 22,
 // Add headers
 app.use(function (req, res, next) {
     // Website you wish to allow to connect
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
+    res.setHeader('Access-Control-Allow-Origin', 'http://192.168.0.18:8080');
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
@@ -42,6 +42,27 @@ app.route('/temperature/target/get')
   }
 );
 
+app.route('/light/on')
+  .get(function (req, res) {
+    switchLight(1);
+    res.json({ message: 'Light turned on' });
+  }
+);
+
+app.route('/light/off')
+  .get(function (req, res) {
+    switchLight(0);
+    res.json({ message: 'Light turned off' });
+  }
+);
+
 app.listen(3000, function () {
   console.log('MESSAGE - Listening on port 3000');
 });
+
+function switchLight(value) {
+  var Gpio = require('onoff').Gpio,
+      led = new Gpio(4, 'out');
+
+  led.writeSync(value);
+}

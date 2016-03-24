@@ -5,6 +5,11 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
   selector: 'nsr-manual',
   template: `
     <div class="nestor">
+      <span class="fa-stack fa-lg light" [class.on]="lightState === 'on'" (click)="switchLight()">
+        <i class="fa fa-circle-thin fa-stack-2x"></i>
+        <i class="fa fa-lightbulb-o fa-stack-1x"></i>
+      </span>
+
       <div class="first-line">
         <button (click)="changeTargetTemperature(-0.5)"><i class="fa fa-chevron-left"></i></button>
         
@@ -24,6 +29,22 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
        background: #8ACE62;
        color: whitesmoke;
      }
+
+     .nestor .light {
+        font-size: 40px;
+        margin: 40px 0 0 40px;
+     }
+
+     .nestor .light.on {
+       color: yellow;
+     }
+
+     .nestor .light:hover {
+     }
+
+     .nestor .light:active {
+        color: yellow;
+     }
      
      .nestor .first-line {
        display: flex;
@@ -42,7 +63,7 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
        font-size: 2em;
        color: whitesmoke;
      }
-     
+
      .nestor .first-line button:hover {
        background: #B4DD9B;
      }
@@ -75,13 +96,14 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
 })
 export class Manual {
   @HostBinding() targetTemperature: number = 0;
-  
+  @HostBinding() lightState: string = 'off';
+
   constructor(private http: Http) {
     this.getTargetTemperature();
   }
   
   getTargetTemperature() {
-    this.http.get('http://localhost:3000/temperature/target/get/')
+    this.http.get('http://192.168.0.18:3000/temperature/target/get/')
       .subscribe(response => {
         console.log(response.json().value);
         this.targetTemperature = response.json().value;
@@ -92,12 +114,26 @@ export class Manual {
   changeTargetTemperature(step) {
     var newTemperature = this.targetTemperature + step;
     
-    this.http.get('http://localhost:3000/temperature/target/set/' + newTemperature)
+    this.http.get('http://192.168.0.18:3000/temperature/target/set/' + newTemperature)
       .subscribe(response => {
         this.targetTemperature = newTemperature;
         
         console.log(response.json());
       }
+    );
+  }
+
+  switchLight() {
+    if (this.lightState === 'on') {
+      this.lightState = 'off';
+    } else {
+      this.lightState = 'on';
+    }
+
+    this.http.get('http://192.168.0.18:3000/light/' + this.lightState)
+      .subscribe(response => {
+        console.log(response.json());
+      } 
     );
   }
 }

@@ -1,5 +1,7 @@
 var os = require('os');
 
+console.log('XXXX', getIp());
+
 module.exports = {
   entry: './src/boot.ts',
   output: {
