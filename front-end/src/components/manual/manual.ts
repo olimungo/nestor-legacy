@@ -5,10 +5,7 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
   selector: 'nsr-manual',
   template: `
     <div class="nestor">
-      <span class="fa-stack fa-lg light" [class.on]="lightState === 'on'" (click)="switchLight()">
-        <i class="fa fa-circle-thin fa-stack-2x"></i>
-        <i class="fa fa-lightbulb-o fa-stack-1x"></i>
-      </span>
+      <div class="current-temperature">{{ currentTemperature | number:'2.1-1' }}°C</div>
 
       <div class="first-line">
         <button (click)="changeTargetTemperature(-0.5)"><i class="fa fa-chevron-left"></i></button>
@@ -30,22 +27,11 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
        color: whitesmoke;
      }
 
-     .nestor .light {
-        font-size: 40px;
-        margin: 40px 0 0 40px;
+     .nestor .current-temperature {
+       padding: 30px;
+       font-size: 50px;
      }
 
-     .nestor .light.on {
-       color: yellow;
-     }
-
-     .nestor .light:hover {
-     }
-
-     .nestor .light:active {
-        color: yellow;
-     }
-     
      .nestor .first-line {
        display: flex;
        align-items: center;
@@ -96,10 +82,12 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
 })
 export class Manual {
   @HostBinding() targetTemperature: number = 0;
+  @HostBinding() currentTemperature: number = 0;
   @HostBinding() lightState: string = 'off';
 
   constructor(private http: Http) {
     this.getTargetTemperature();
+    this.watchTemperature();
   }
   
   getTargetTemperature() {
@@ -135,5 +123,15 @@ export class Manual {
         console.log(response.json());
       } 
     );
+  }
+  
+  private watchTemperature() {
+    setInterval(() => {
+      this.http.get('http://localhost:3000/temperature/current/get')
+        .subscribe(response => {
+          this.currentTemperature = response.json().value;
+        }
+      );
+    }, 1000);
   }
 }

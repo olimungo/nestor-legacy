@@ -1,9 +1,10 @@
 var os = require('os');
+var ds = require('ds18x20');
 var express = require('express');
 var app = express();
 
-var currentTemperature = 22,
-    targetTemperature = currentTemperature;
+var currentTemperature = 0,
+    targetTemperature = 17;
     
 function getIp() {
   var interfaces = os.networkInterfaces(),
@@ -61,6 +62,12 @@ app.route('/temperature/target/get')
   }
 );
 
+app.route('/temperature/current/get')
+  .get(function (req, res) {
+    res.json({ value: currentTemperature });
+  }
+);
+
 app.route('/light/on')
   .get(function (req, res) {
     switchLight(1);
@@ -75,13 +82,33 @@ app.route('/light/off')
   }
 );
 
-app.listen(3000, function () {
-  console.log('MESSAGE - Listening on port 3000');
-});
-
 function switchLight(value) {
   var Gpio = require('onoff').Gpio,
       led = new Gpio(4, 'out');
 
   led.writeSync(value);
+}
+
+ds.isDriverLoaded(function (err, isLoaded) {
+  getSensor(function (sensor) {
+    watchTemp(sensor);
+
+    app.listen(3000, function () {
+      console.log('MESSAGE - Listening on port 3000');
+    });
+  });
+});
+
+function getSensor(callback) {
+  ds.list(function (err, listOfDeviceIds) {
+    callback(listOfDeviceIds[0]);
+  });
+}
+
+function watchTemp(sensor) {
+  setInterval(function () {
+    ds.get(sensor, function (err, temperature) {
+      currentTemperature = temperature;
+    });
+  }, 1000);
 }
