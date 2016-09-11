@@ -81,9 +81,9 @@ import {Http, HTTP_PROVIDERS} from 'angular2/http';
   `]
 })
 export class Manual {
-  @HostBinding() targetTemperature: number = 0;
-  @HostBinding() currentTemperature: number = 0;
-  @HostBinding() lightState: string = 'off';
+  targetTemperature: number = 0;
+  currentTemperature: number = 20;
+  lightState: string = 'off';
 
   constructor(private http: Http) {
     this.getTargetTemperature();
@@ -130,6 +130,7 @@ export class Manual {
       this.http.get('http://localhost:3000/temperature/current/get')
         .subscribe(response => {
           this.currentTemperature = response.json().value;
+console.log('111', this.currentTemperature);
         }
       );
     }, 1000);
