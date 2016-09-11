@@ -40,6 +40,19 @@ Edit the file _/boot/config.txt_ and uncomment the following lines:
 `framebuffer_width=1280`  
 `framebuffer_height=720`  
 
+These lines are needed because when the hdmi cable is not plugged, the Pi cannot determine the screen resolution and so selects the smallest one (640x480).
+
+If it doesn't exist, create the folder _/home/pi/.config/autostart_.
+Now, create a file named _x11server.desktop_, edit it and add the following lines:
+
+```
+[Desktop Entry]
+Type=Application
+Name=x11server
+Exec=/usr/bin/x11vnc -forever -bg -usepw -httpdir /usr/share/vnc-java/ -httpport 5901 -display :0
+StartupNotify=false
+```
+
 **From here, the Pi Desktop UI is accessible from other computers on the local network using VNC.**
 
 ## Node, npm and nvm ##
