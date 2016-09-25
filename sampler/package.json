@@ -1,0 +1,16 @@
+{
+  "name": "nestor-back-end",
+  "version": "0.1.0",
+  "description": "The back-end part of Project Nestor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node back-end.js"
+  },
+  "author": "olivier@mungo.eu",
+  "license": "MIT",
+  "dependencies": {
+    "ds18x20": "^0.2.0",
+    "firebase": "^3.3.2",
+    "log4js": "^0.6.38"
+  }
+}

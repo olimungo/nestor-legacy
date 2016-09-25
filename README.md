@@ -1,3 +1,6 @@
+# Nestor
+Playing with the Raspberry Pi, trying to build a Thermostat. 
+
 ## Raspberry ##
 Download NOOBS  
 Format SD card  
@@ -7,8 +10,26 @@ Copy content of NOOBS onto SD card
 Connect the Pi to Monitor, mouse and keyboard  
 Power on the Pi with the SD Card and install Raspbian  
 After rebooting set keybard layout  
-Connect to Wifi  
-Shutdown the Pi  
+
+## Connect to Wifi
+Do it in GUI.  
+
+If your Wifi network SSID is hidden, edit the file _/etc/wpa\_supplicant/wpa\_supplicant.conf_ and make it look like this: 
+```
+update_config=1
+country=BE
+
+network={
+	ssid="MyHiddenWifiNetwork"
+	key_mgmt=NONE
+	scan_ssid=1
+}
+```
+
+## Shutdown or reboot the Pi  
+`shutdown now`  
+or  
+`reboot`  
 
 **From here, the Pi may be disconnected from the monitor, the mouse and the keyboard as it is now possible to access it through an ssh connection.**
 

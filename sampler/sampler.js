@@ -2,9 +2,13 @@ var ds = require('ds18x20');
 var log4js = require('log4js');
 var firebase = require('firebase');
 
-var FREQUENCY = 30000;
+var FREQUENCY = 60000;
 var logger = configureLogger();
 var temperaturesRef = configureRemoteDatabase();
+
+process.on('uncaughtException', function(err) {
+  logger.fatal('Uncaught exception: ' + err);
+});
 
 ds.isDriverLoaded(function (err, isLoaded) {
   getSensor(function (sensor) {
@@ -25,6 +29,7 @@ function watchTemp(sensor) {
   setInterval(function () {
     ds.get(sensor, function (err, temperature) {
       saveTemperature(temperature);
+      //logger.info('test: ' + temperature);
     });
   }, FREQUENCY);
 }
@@ -32,7 +37,7 @@ function watchTemp(sensor) {
 function configureLogger() {
   log4js.configure({
     appenders: [
-      { type: 'file', filename: '/home/pi/Projects/nestor/back-end/logs/temperature.log', category: 'temperature' }
+      { type: 'file', filename: '/home/pi/Projects/nestor/sampler/logs/temperature.log', category: 'temperature' }
     ]});
 
   return log4js.getLogger('temperature');
