@@ -53,3 +53,7 @@ class ButtonUp(Button):
 class ButtonDown(Button):
 	def __init__(self, coords):
 		Button.__init__(self, "down", coords)
+
+class Menu(object):
+	def __init__(self, coords):
+		self.rect = pygame.draw.circle(screen, colors.SECONDARY, coords, 20, 0)

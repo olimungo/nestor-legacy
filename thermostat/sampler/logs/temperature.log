@@ -5218,3 +5218,1307 @@
 [2016-09-25 10:41:31.063] [INFO] temperature - Sampled: 24.8
 [2016-09-25 10:42:31.073] [INFO] temperature - Sampled: 24.8
 [2016-09-25 10:43:31.083] [INFO] temperature - Sampled: 24.8
+[2016-09-25 10:44:31.095] [INFO] temperature - Sampled: 24.8
+[2016-09-25 10:45:31.104] [INFO] temperature - Sampled: 24.8
+[2016-09-25 10:46:31.128] [INFO] temperature - Sampled: 24.8
+[2016-09-25 10:47:31.147] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:48:31.157] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:49:31.193] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:50:31.186] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:51:31.195] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:52:31.214] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:53:31.224] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:54:31.245] [INFO] temperature - Sampled: 24.9
+[2016-09-25 10:55:31.266] [INFO] temperature - Sampled: 25
+[2016-09-25 10:56:31.287] [INFO] temperature - Sampled: 25.1
+[2016-09-25 10:57:31.294] [INFO] temperature - Sampled: 25
+[2016-09-25 10:58:31.304] [INFO] temperature - Sampled: 25.1
+[2016-09-25 10:59:31.324] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:00:31.334] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:01:31.344] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:02:31.364] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:03:31.376] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:04:31.374] [INFO] temperature - Sampled: 25.1
+[2016-09-25 11:05:31.396] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:06:31.404] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:07:31.424] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:08:31.442] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:09:31.460] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:10:31.496] [INFO] temperature - Sampled: 25.2
+[2016-09-25 11:11:31.516] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:12:31.524] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:13:31.514] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:14:31.534] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:15:31.544] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:16:31.564] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:17:31.575] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:18:31.594] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:19:31.594] [INFO] temperature - Sampled: 25.3
+[2016-09-25 11:20:31.614] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:21:31.654] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:22:31.645] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:23:31.664] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:24:31.674] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:25:31.694] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:26:31.694] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:27:31.714] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:28:31.736] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:29:31.744] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:30:31.765] [INFO] temperature - Sampled: 25.4
+[2016-09-25 11:31:31.780] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:32:31.794] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:33:31.810] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:34:31.814] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:35:31.828] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:36:31.834] [INFO] temperature - Sampled: 25.5
+[2016-09-25 11:37:31.849] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:38:31.866] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:39:31.874] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:40:31.884] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:41:31.904] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:42:31.914] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:43:31.924] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:44:31.954] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:45:31.954] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:46:31.964] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:47:31.975] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:48:31.984] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:49:32.004] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:50:32.014] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:51:32.034] [INFO] temperature - Sampled: 25.6
+[2016-09-25 11:52:32.044] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:53:32.064] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:54:32.074] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:55:32.084] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:56:32.094] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:57:32.114] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:58:32.124] [INFO] temperature - Sampled: 25.7
+[2016-09-25 11:59:32.134] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:00:32.154] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:01:32.164] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:02:32.184] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:03:32.195] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:04:32.214] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:05:32.234] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:06:32.244] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:07:32.264] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:08:32.264] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:09:32.277] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:10:32.284] [INFO] temperature - Sampled: 25.7
+[2016-09-25 12:11:32.305] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:12:32.324] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:13:32.324] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:14:32.324] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:15:32.336] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:16:32.379] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:17:32.445] [INFO] temperature - Sampled: 25.8
+[2016-09-25 12:18:32.424] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:19:32.434] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:20:32.454] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:21:32.463] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:22:32.474] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:23:32.494] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:24:32.504] [INFO] temperature - Sampled: 25.9
+[2016-09-25 12:25:32.524] [INFO] temperature - Sampled: 26
+[2016-09-25 12:26:32.534] [INFO] temperature - Sampled: 26
+[2016-09-25 12:27:32.554] [INFO] temperature - Sampled: 26
+[2016-09-25 12:28:32.564] [INFO] temperature - Sampled: 26.1
+[2016-09-25 12:29:32.584] [INFO] temperature - Sampled: 26.1
+[2016-09-25 12:30:32.594] [INFO] temperature - Sampled: 26.1
+[2016-09-25 12:31:32.614] [INFO] temperature - Sampled: 26.1
+[2016-09-25 12:32:32.624] [INFO] temperature - Sampled: 26.2
+[2016-09-25 12:33:32.624] [INFO] temperature - Sampled: 26.2
+[2016-09-25 12:34:32.643] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:35:32.664] [INFO] temperature - Sampled: 26.2
+[2016-09-25 12:36:32.674] [INFO] temperature - Sampled: 26.2
+[2016-09-25 12:37:32.694] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:38:32.704] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:39:32.723] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:40:32.744] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:41:32.744] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:42:32.764] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:43:32.773] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:44:32.794] [INFO] temperature - Sampled: 26.3
+[2016-09-25 12:45:32.804] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:46:32.823] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:47:32.834] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:48:32.844] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:49:32.857] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:50:32.864] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:51:32.874] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:52:32.874] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:53:32.894] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:54:32.905] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:55:32.914] [INFO] temperature - Sampled: 26.4
+[2016-09-25 12:56:32.924] [INFO] temperature - Sampled: 26.5
+[2016-09-25 12:57:32.945] [INFO] temperature - Sampled: 26.5
+[2016-09-25 12:58:32.954] [INFO] temperature - Sampled: 26.5
+[2016-09-25 12:59:32.974] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:00:33.001] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:01:33.004] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:02:33.015] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:03:33.035] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:04:33.054] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:05:33.055] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:06:33.063] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:07:33.074] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:08:33.094] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:09:33.104] [INFO] temperature - Sampled: 26.6
+[2016-09-25 13:10:33.125] [INFO] temperature - Sampled: 26.5
+[2016-09-25 13:11:33.134] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:12:33.144] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:13:33.165] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:14:33.174] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:15:33.194] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:16:33.204] [INFO] temperature - Sampled: 26.4
+[2016-09-25 13:17:33.214] [INFO] temperature - Sampled: 26.3
+[2016-09-25 13:18:33.234] [INFO] temperature - Sampled: 26.3
+[2016-09-25 13:19:33.244] [INFO] temperature - Sampled: 26.3
+[2016-09-25 13:20:33.264] [INFO] temperature - Sampled: 26.2
+[2016-09-25 13:21:33.285] [INFO] temperature - Sampled: 26.1
+[2016-09-25 13:22:33.313] [INFO] temperature - Sampled: 26.1
+[2016-09-25 13:23:33.304] [INFO] temperature - Sampled: 26.1
+[2016-09-25 13:24:33.324] [INFO] temperature - Sampled: 26
+[2016-09-25 13:25:33.334] [INFO] temperature - Sampled: 25.9
+[2016-09-25 13:26:33.355] [INFO] temperature - Sampled: 25.9
+[2016-09-25 13:27:33.364] [INFO] temperature - Sampled: 25.8
+[2016-09-25 13:28:33.374] [INFO] temperature - Sampled: 25.8
+[2016-09-25 13:29:33.375] [INFO] temperature - Sampled: 25.7
+[2016-09-25 13:30:33.394] [INFO] temperature - Sampled: 25.6
+[2016-09-25 13:31:33.414] [INFO] temperature - Sampled: 25.6
+[2016-09-25 13:32:33.424] [INFO] temperature - Sampled: 25.6
+[2016-09-25 13:33:33.444] [INFO] temperature - Sampled: 25.5
+[2016-09-25 13:34:33.454] [INFO] temperature - Sampled: 25.4
+[2016-09-25 13:35:33.475] [INFO] temperature - Sampled: 25.4
+[2016-09-25 13:36:33.474] [INFO] temperature - Sampled: 25.4
+[2016-09-25 13:37:33.484] [INFO] temperature - Sampled: 25.4
+[2016-09-25 13:38:33.505] [INFO] temperature - Sampled: 25.3
+[2016-09-25 13:39:33.524] [INFO] temperature - Sampled: 25.3
+[2016-09-25 13:40:33.534] [INFO] temperature - Sampled: 25.2
+[2016-09-25 13:41:33.544] [INFO] temperature - Sampled: 25.2
+[2016-09-25 13:42:33.564] [INFO] temperature - Sampled: 25.1
+[2016-09-25 13:43:33.585] [INFO] temperature - Sampled: 25.1
+[2016-09-25 13:44:33.594] [INFO] temperature - Sampled: 25.1
+[2016-09-25 13:45:33.614] [INFO] temperature - Sampled: 25
+[2016-09-25 13:46:33.624] [INFO] temperature - Sampled: 25
+[2016-09-25 13:47:33.624] [INFO] temperature - Sampled: 24.9
+[2016-09-25 13:48:33.644] [INFO] temperature - Sampled: 24.9
+[2016-09-25 13:49:33.664] [INFO] temperature - Sampled: 24.9
+[2016-09-25 13:50:33.674] [INFO] temperature - Sampled: 24.8
+[2016-09-25 13:51:33.695] [INFO] temperature - Sampled: 24.8
+[2016-09-25 13:52:33.704] [INFO] temperature - Sampled: 24.8
+[2016-09-25 13:53:33.714] [INFO] temperature - Sampled: 24.8
+[2016-09-25 13:54:33.735] [INFO] temperature - Sampled: 24.8
+[2016-09-25 13:55:33.744] [INFO] temperature - Sampled: 24.7
+[2016-09-25 13:56:33.744] [INFO] temperature - Sampled: 24.7
+[2016-09-25 13:57:33.764] [INFO] temperature - Sampled: 24.6
+[2016-09-25 13:58:33.774] [INFO] temperature - Sampled: 24.6
+[2016-09-25 13:59:33.794] [INFO] temperature - Sampled: 24.6
+[2016-09-25 14:00:33.794] [INFO] temperature - Sampled: 24.6
+[2016-09-25 14:01:33.814] [INFO] temperature - Sampled: 24.6
+[2016-09-25 14:02:33.825] [INFO] temperature - Sampled: 24.6
+[2016-09-25 14:03:33.834] [INFO] temperature - Sampled: 24.5
+[2016-09-25 14:04:33.844] [INFO] temperature - Sampled: 24.5
+[2016-09-25 14:05:33.865] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:06:33.874] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:07:33.884] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:08:33.904] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:09:33.914] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:10:33.914] [INFO] temperature - Sampled: 24.3
+[2016-09-25 14:11:33.937] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:12:33.954] [INFO] temperature - Sampled: 24.4
+[2016-09-25 14:13:33.964] [INFO] temperature - Sampled: 24.3
+[2016-09-25 14:14:33.974] [INFO] temperature - Sampled: 24.3
+[2016-09-25 14:15:33.984] [INFO] temperature - Sampled: 24.3
+[2016-09-25 14:16:34.004] [INFO] temperature - Sampled: 24.2
+[2016-09-25 14:17:34.014] [INFO] temperature - Sampled: 24.2
+[2016-09-25 14:18:34.034] [INFO] temperature - Sampled: 24.2
+[2016-09-25 14:19:34.044] [INFO] temperature - Sampled: 24.2
+[2016-09-25 14:20:34.064] [INFO] temperature - Sampled: 24.2
+[2016-09-25 14:21:34.064] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:22:34.075] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:23:34.094] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:24:34.104] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:25:34.124] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:26:34.134] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:27:34.156] [INFO] temperature - Sampled: 24.1
+[2016-09-25 14:28:34.175] [INFO] temperature - Sampled: 24
+[2016-09-25 14:29:34.164] [INFO] temperature - Sampled: 24
+[2016-09-25 14:30:34.184] [INFO] temperature - Sampled: 24
+[2016-09-25 14:31:34.194] [INFO] temperature - Sampled: 24
+[2016-09-25 14:32:34.214] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:33:34.214] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:34:34.238] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:35:34.245] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:36:34.264] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:37:34.274] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:38:34.285] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:39:34.304] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:40:34.314] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:41:34.334] [INFO] temperature - Sampled: 23.9
+[2016-09-25 14:42:34.343] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:43:34.345] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:44:34.364] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:45:34.364] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:46:34.385] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:47:34.394] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:48:34.414] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:49:34.424] [INFO] temperature - Sampled: 23.8
+[2016-09-25 14:50:34.444] [INFO] temperature - Sampled: 23.7
+[2016-09-25 14:51:34.454] [INFO] temperature - Sampled: 23.7
+[2016-09-25 14:52:34.474] [INFO] temperature - Sampled: 23.7
+[2016-09-25 14:53:34.484] [INFO] temperature - Sampled: 23.7
+[2016-09-25 14:54:34.504] [INFO] temperature - Sampled: 23.6
+[2016-09-25 14:55:34.515] [INFO] temperature - Sampled: 23.6
+[2016-09-25 14:56:34.534] [INFO] temperature - Sampled: 23.6
+[2016-09-25 14:57:34.544] [INFO] temperature - Sampled: 23.6
+[2016-09-25 14:58:34.554] [INFO] temperature - Sampled: 23.6
+[2016-09-25 14:59:34.574] [INFO] temperature - Sampled: 23.6
+[2016-09-25 15:00:34.584] [INFO] temperature - Sampled: 23.6
+[2016-09-25 15:01:34.594] [INFO] temperature - Sampled: 23.6
+[2016-09-25 15:02:34.604] [INFO] temperature - Sampled: 23.6
+[2016-09-25 15:03:34.624] [INFO] temperature - Sampled: 23.5
+[2016-09-25 15:04:34.634] [INFO] temperature - Sampled: 23.5
+[2016-09-25 15:05:34.654] [INFO] temperature - Sampled: 23.5
+[2016-09-25 15:06:34.665] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:07:34.664] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:08:34.684] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:09:34.684] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:10:34.704] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:11:34.714] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:12:34.734] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:13:34.744] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:14:34.765] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:15:34.774] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:16:34.795] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:17:34.814] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:18:34.824] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:19:34.824] [INFO] temperature - Sampled: 23.4
+[2016-09-25 15:20:34.844] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:21:34.856] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:22:34.875] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:23:34.884] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:24:34.904] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:25:34.914] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:26:34.934] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:27:34.944] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:28:34.964] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:29:34.984] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:30:34.994] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:31:35.004] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:32:35.024] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:33:35.034] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:34:35.057] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:35:35.074] [INFO] temperature - Sampled: 23.3
+[2016-09-25 15:36:35.084] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:37:35.104] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:38:35.114] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:39:35.124] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:40:35.134] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:41:35.144] [INFO] temperature - Sampled: 23.2
+[2016-09-25 15:42:35.154] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:43:35.175] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:44:35.184] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:45:35.204] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:46:35.214] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:47:35.224] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:48:35.234] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:49:35.254] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:50:35.264] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:51:35.284] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:52:35.304] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:53:35.315] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:54:35.324] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:55:35.344] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:56:35.354] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:57:35.374] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:58:35.384] [INFO] temperature - Sampled: 23.1
+[2016-09-25 15:59:35.404] [INFO] temperature - Sampled: 23
+[2016-09-25 16:00:35.414] [INFO] temperature - Sampled: 23
+[2016-09-25 16:01:35.435] [INFO] temperature - Sampled: 23
+[2016-09-25 16:02:35.444] [INFO] temperature - Sampled: 23
+[2016-09-25 16:03:35.464] [INFO] temperature - Sampled: 23
+[2016-09-25 16:04:35.475] [INFO] temperature - Sampled: 23
+[2016-09-25 16:05:35.497] [INFO] temperature - Sampled: 23
+[2016-09-25 16:06:35.504] [INFO] temperature - Sampled: 23
+[2016-09-25 16:07:35.524] [INFO] temperature - Sampled: 23
+[2016-09-25 16:08:35.544] [INFO] temperature - Sampled: 23
+[2016-09-25 16:09:35.554] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:10:35.574] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:11:35.574] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:12:35.585] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:13:35.604] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:14:35.624] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:15:35.634] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:16:35.653] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:17:35.674] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:18:35.684] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:19:35.704] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:20:35.714] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:21:35.725] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:22:35.744] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:23:35.754] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:24:35.775] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:25:35.784] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:26:35.794] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:27:35.814] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:28:35.834] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:29:35.845] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:30:35.864] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:31:35.874] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:32:35.894] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:33:35.904] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:34:35.925] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:35:35.934] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:36:35.944] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:37:35.965] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:38:35.988] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:39:36.070] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:40:36.024] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:41:36.035] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:42:36.054] [INFO] temperature - Sampled: 22.9
+[2016-09-25 16:43:36.074] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:44:36.085] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:45:36.093] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:46:36.114] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:47:36.123] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:48:36.134] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:49:36.144] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:50:36.156] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:51:36.174] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:52:36.185] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:53:36.204] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:54:36.214] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:55:36.235] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:56:36.237] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:57:36.254] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:58:36.264] [INFO] temperature - Sampled: 22.8
+[2016-09-25 16:59:36.284] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:00:36.304] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:01:36.314] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:02:36.334] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:03:36.344] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:04:36.345] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:05:36.353] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:06:36.373] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:07:36.385] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:08:36.404] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:09:36.414] [INFO] temperature - Sampled: 22.8
+[2016-09-25 17:10:36.434] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:11:36.453] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:12:36.464] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:13:36.484] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:14:36.494] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:15:36.515] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:16:36.534] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:17:36.544] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:18:36.565] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:19:36.574] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:20:36.594] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:21:36.614] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:22:36.624] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:23:36.644] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:24:36.654] [INFO] temperature - Sampled: 22.7
+[2016-09-25 17:25:36.674] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:26:36.685] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:27:36.684] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:28:36.704] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:29:36.725] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:30:36.734] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:31:36.754] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:32:36.765] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:33:36.763] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:34:36.774] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:35:36.794] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:36:36.804] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:37:36.825] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:38:36.837] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:39:36.854] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:40:36.863] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:41:36.875] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:42:36.884] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:43:36.904] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:44:36.914] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:45:36.934] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:46:36.944] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:47:36.964] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:48:36.984] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:49:36.995] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:50:37.004] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:51:37.024] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:52:37.035] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:53:37.054] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:54:37.064] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:55:37.084] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:56:37.104] [INFO] temperature - Sampled: 22.5
+[2016-09-25 17:57:37.114] [INFO] temperature - Sampled: 22.5
+[2016-09-25 17:58:37.134] [INFO] temperature - Sampled: 22.6
+[2016-09-25 17:59:37.134] [INFO] temperature - Sampled: 22.6
+[2016-09-25 18:00:37.155] [INFO] temperature - Sampled: 22.6
+[2016-09-25 18:01:37.173] [INFO] temperature - Sampled: 22.6
+[2016-09-25 18:02:37.184] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:03:37.204] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:04:37.214] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:05:37.234] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:06:37.244] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:07:37.265] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:08:37.275] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:09:37.274] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:10:37.294] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:11:37.304] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:12:37.314] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:13:37.324] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:14:37.344] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:15:37.354] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:16:37.375] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:17:37.384] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:18:37.404] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:19:37.406] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:20:37.427] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:21:37.434] [INFO] temperature - Sampled: 22.5
+[2016-09-25 18:22:37.454] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:23:37.464] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:24:37.484] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:25:37.494] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:26:37.514] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:27:37.524] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:28:37.545] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:29:37.554] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:30:37.574] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:31:37.585] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:32:37.604] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:33:37.614] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:34:37.634] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:35:37.654] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:36:37.665] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:37:37.684] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:38:37.694] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:39:37.715] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:40:37.748] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:41:37.744] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:42:37.764] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:43:37.774] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:44:37.796] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:45:37.804] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:46:37.824] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:47:37.835] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:48:37.834] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:49:37.854] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:50:37.866] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:51:37.874] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:52:37.884] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:53:37.894] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:54:37.914] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:55:37.925] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:56:37.944] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:57:37.953] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:58:37.975] [INFO] temperature - Sampled: 22.4
+[2016-09-25 18:59:37.994] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:00:37.994] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:01:38.017] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:02:38.034] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:03:38.044] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:04:38.045] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:05:38.053] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:06:38.074] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:07:38.085] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:08:38.094] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:09:38.104] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:10:38.124] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:11:38.144] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:12:38.156] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:13:38.174] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:14:38.183] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:15:38.205] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:16:38.214] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:17:38.233] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:18:38.255] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:19:38.263] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:20:38.283] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:21:38.294] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:22:38.313] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:23:38.348] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:24:38.344] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:25:38.353] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:26:38.391] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:27:38.394] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:28:38.404] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:29:38.405] [INFO] temperature - Sampled: 22.3
+[2016-09-25 19:30:38.424] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:31:38.444] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:32:38.444] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:33:38.464] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:34:38.474] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:35:38.494] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:36:38.504] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:37:38.525] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:38:38.534] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:39:38.554] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:40:38.565] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:41:38.584] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:42:38.604] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:43:38.614] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:44:38.614] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:45:38.623] [INFO] temperature - Sampled: 22.4
+[2016-09-25 19:46:37.874] [INFO] temperature - Sampled: 0
+[2016-09-25 19:47:37.888] [INFO] temperature - Sampled: 0
+[2016-09-25 19:48:37.841] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXShXtuHykhKKLaqM1.temperature'
+[2016-09-25 19:49:37.851] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXSwBeo2pN0PPfOY5H.temperature'
+[2016-09-25 19:50:37.898] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXT9qtWxsgF_qIGmNY.temperature'
+[2016-09-25 19:51:37.915] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXTOVdthJLJg3bQK-Q.temperature'
+[2016-09-25 19:52:37.946] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXTc9doEGjJ-UAiukz.temperature'
+[2016-09-25 19:53:37.992] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXTqos5q62XGToksRQ.temperature'
+[2016-09-25 19:54:37.996] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXU4TRaF8KRG43MzfX.temperature'
+[2016-09-25 19:55:38.029] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXUJ7Ra4P5reiq7A0k.temperature'
+[2016-09-25 19:56:38.076] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXUXmfFmpSNrmdFHON.temperature'
+[2016-09-25 19:57:38.092] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXUlRR_BdMvnrZIjFx.temperature'
+[2016-09-25 19:58:38.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXV-58kEWZLflsV901.temperature'
+[2016-09-25 19:59:38.145] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXVDkGlda15tnsAtZe.temperature'
+[2016-09-25 20:00:38.159] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXVSOzMYfwOJWp4L5F.temperature'
+[2016-09-25 20:01:38.161] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXVg2VnEZGNbH3Mayb.temperature'
+[2016-09-25 20:02:38.206] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXVuhhDo_du9YHiomf.temperature'
+[2016-09-25 20:03:38.221] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXW8MRrtoKPDrnudYA.temperature'
+[2016-09-25 20:04:38.233] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXWN07UqSpTbdd9dgf.temperature'
+[2016-09-25 20:05:38.242] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXWaemsrrOw1dshz6S.temperature'
+[2016-09-25 20:06:38.257] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXWpJW_g1CFh1oibEA.temperature'
+[2016-09-25 20:07:38.288] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXX2yUX7Tft_Fc7Hbb.temperature'
+[2016-09-25 20:08:38.313] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXXHcOoTJsw8H3fgAQ.temperature'
+[2016-09-25 20:09:38.330] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXXWH96Ry_pDR-dw2F.temperature'
+[2016-09-25 20:10:38.361] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXXjw8odyPhQo6CP7Q.temperature'
+[2016-09-25 20:11:38.407] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXXyaMwZ3_gTUQO8rD.temperature'
+[2016-09-25 20:12:38.423] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXYCF65bPo88iFd8ho.temperature'
+[2016-09-25 20:13:38.455] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXYQu5ABsora_v6BEc.temperature'
+[2016-09-25 20:14:38.462] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXYeYhzz2xi1aaPn4K.temperature'
+[2016-09-25 20:15:38.477] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXYtCR9iJjvLN9ULf8.temperature'
+[2016-09-25 20:16:38.505] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXZ6rOzDUJ7ogMn_pE.temperature'
+[2016-09-25 20:17:38.526] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXZLWCDObxy5X4rw00.temperature'
+[2016-09-25 20:18:38.529] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXZ_9k9suPp1TFn9hq.temperature'
+[2016-09-25 20:19:38.557] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXZnogcRteJuVRJb9n.temperature'
+[2016-09-25 20:20:38.564] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSX_1TJeMNYF-MSZz-c.temperature'
+[2016-09-25 20:21:38.578] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSX_G70yJXbHt0cu7gE.temperature'
+[2016-09-25 20:22:38.586] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSX_Uld4D7y6pGyCHUm.temperature'
+[2016-09-25 20:23:38.611] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSX_iQWNMhuwMBHux4M.temperature'
+[2016-09-25 20:24:38.627] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSX_x4IuVfvj4wKqj8R.temperature'
+[2016-09-25 20:25:38.658] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXaAjGSH3D01UPYI7Y.temperature'
+[2016-09-25 20:26:38.675] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXaPO2FdiUQKTWQerb.temperature'
+[2016-09-25 20:27:38.691] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXad1mVGAQxg3JuUzf.temperature'
+[2016-09-25 20:28:38.722] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXargldrHog5QoFhCk.temperature'
+[2016-09-25 20:29:38.728] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXb5LNbgXcxz9ky8PS.temperature'
+[2016-09-25 20:30:38.737] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXbJzzhX8QZpSkiUO1.temperature'
+[2016-09-25 20:31:38.767] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXbYdy0kI5p_REXVtE.temperature'
+[2016-09-25 20:32:38.776] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXbmIcl2c4u6t4HeA2.temperature'
+[2016-09-25 20:33:38.792] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXc-xN4u5ujcwx9Ua6.temperature'
+[2016-09-25 20:34:38.821] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXcEbKlf9gpdaKn1Wu.temperature'
+[2016-09-25 20:35:38.831] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXcTFzRjJQNBBvIuTi.temperature'
+[2016-09-25 20:36:38.848] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXcgujtlO3hEqdj7fd.temperature'
+[2016-09-25 20:37:38.855] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXcvZMQjaoqx0NA_K_.temperature'
+[2016-09-25 20:38:38.900] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXd9DZ8sAQbSw0ltpV.temperature'
+[2016-09-25 20:39:38.905] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXdNs7AK0ZJb483wOe.temperature'
+[2016-09-25 20:40:38.935] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXdbX6EThXHkC2r_ef.temperature'
+[2016-09-25 20:41:38.937] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXdqAc0d8hWMJkSOdZ.temperature'
+[2016-09-25 20:42:38.952] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXe3pNrXrq5o9JRA4V.temperature'
+[2016-09-25 20:43:38.983] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXeIULYM66O3fj1gnD.temperature'
+[2016-09-25 20:44:39.028] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXeX8YOH3OxJo9TgFn.temperature'
+[2016-09-25 20:45:39.044] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXeknIlWRZT0ktmkc9.temperature'
+[2016-09-25 20:46:39.056] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXezRzrb9nVzW5Ei9F.temperature'
+[2016-09-25 20:47:39.100] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXfD6BW9wm9qwjwScd.temperature'
+[2016-09-25 20:48:39.102] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXfRki-3q4mM9bC72A.temperature'
+[2016-09-25 20:49:39.109] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXffPKjULLGXQCL67i.temperature'
+[2016-09-25 20:50:39.155] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXfu3Ychk7kCj5ppVD.temperature'
+[2016-09-25 20:51:39.166] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXg7iCMk-cb3hw6cT4.temperature'
+[2016-09-25 20:52:39.169] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXgMMlQq12N4OP0IN3.temperature'
+[2016-09-25 20:53:39.173] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXga0JoFx6IIGr3MYJ.temperature'
+[2016-09-25 20:54:39.188] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXgof3bTUSSoPAAtZ7.temperature'
+[2016-09-25 20:55:39.193] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXh2Jcqloizb4-iGIW.temperature'
+[2016-09-25 20:56:39.221] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXhGy_aTBzIXIlx1iz.temperature'
+[2016-09-25 20:57:39.236] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXhVcJ_OpW-KYNS8QE.temperature'
+[2016-09-25 20:58:39.267] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXhjHHHVJ-MS_Lclzx.temperature'
+[2016-09-25 20:59:39.306] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXhxwOgOiElna7-1o6.temperature'
+[2016-09-25 21:00:39.321] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXiBa7Q_pO3mIdh7-2.temperature'
+[2016-09-25 21:01:39.325] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXiQEhceCz79L5b0PD.temperature'
+[2016-09-25 21:02:39.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXidtfGkTzmG8qZ0Nq.temperature'
+[2016-09-25 21:03:39.371] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXisYPzqAT2nVxb10T.temperature'
+[2016-09-25 21:04:39.402] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXj6COQ5lOopwhjUOq.temperature'
+[2016-09-25 21:05:39.447] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXjKrb2BiW_QDPq5zk.temperature'
+[2016-09-25 21:06:39.463] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXjZWL0RGr6L1tpujo.temperature'
+[2016-09-25 21:07:39.469] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXjn9v1Nr1rwf6RFJy.temperature'
+[2016-09-25 21:08:39.471] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXk0oTWZDDNwM9DVXW.temperature'
+[2016-09-25 21:09:39.487] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXkFTDTYSqHvIx-_YN.temperature'
+[2016-09-25 21:10:39.497] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXkU6tn3GIxfBrYHLV.temperature'
+[2016-09-25 21:11:39.503] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXkhlTPGLxa-S66u4Y.temperature'
+[2016-09-25 21:12:39.518] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXkwQCVVkA-Cu1_iCi.temperature'
+[2016-09-25 21:13:39.546] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXlA484W68mpjwmDqI.temperature'
+[2016-09-25 21:14:39.605] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXlOjMEhjV_sAOUNVL.temperature'
+[2016-09-25 21:15:39.609] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXlcO8x5JQXD05rabJ.temperature'
+[2016-09-25 21:16:39.639] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXlr262tT0VZkdcuh9.temperature'
+[2016-09-25 21:17:39.683] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXm4hHftTpTiHvHVDz.temperature'
+[2016-09-25 21:18:39.698] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXmJM0vIVqhVsMns5H.temperature'
+[2016-09-25 21:19:39.731] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXmY019XDvsugbnVvU.temperature'
+[2016-09-25 21:20:39.753] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXmlesAAXca_6KYBJE.temperature'
+[2016-09-25 21:21:39.768] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXn-Jcvi8_tVgUV9Iy.temperature'
+[2016-09-25 21:22:39.768] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXnDy7ADUWHxdP7DLd.temperature'
+[2016-09-25 21:23:39.813] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXnScKUDpKXb5rXPFX.temperature'
+[2016-09-25 21:24:39.828] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXngH2_mFhEr2fCD3i.temperature'
+[2016-09-25 21:25:39.858] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXnuw0B3rgzu6niLt3.temperature'
+[2016-09-25 21:26:39.904] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXo8aFYm3WAaqMX0Dp.temperature'
+[2016-09-25 21:27:39.919] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXoNEyOu7YD9ZxiVqp.temperature'
+[2016-09-25 21:28:39.949] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXoatwY5BNjgiwXN_U.temperature'
+[2016-09-25 21:29:39.993] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXopZ7_tfM0R5-h0aU.temperature'
+[2016-09-25 21:30:40.001] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXp3ClxmXqerQopAIk.temperature'
+[2016-09-25 21:31:40.007] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXpHrL2arBDqZPLaD8.temperature'
+[2016-09-25 21:32:40.014] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXpWVygBkcJNA8xks1.temperature'
+[2016-09-25 21:33:40.030] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXpk9hDYDJAvNKiQq6.temperature'
+[2016-09-25 21:34:40.059] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXpyofmSxbCqQ1JKqH.temperature'
+[2016-09-25 21:35:40.093] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXqCTg1EAADcQx_qH8.temperature'
+[2016-09-25 21:36:40.108] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXqR7RgeE1BrBAiYyE.temperature'
+[2016-09-25 21:37:40.138] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXqemP0usZnjeEZhWE.temperature'
+[2016-09-25 21:38:40.183] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXqtRaKlrssOzohER9.temperature'
+[2016-09-25 21:39:40.198] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXr75K4aGH-MQtNG7E.temperature'
+[2016-09-25 21:40:40.228] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXrLkIT3C12mga7Jh-.temperature'
+[2016-09-25 21:41:40.273] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXr_PVwwhkvlc_e-mE.temperature'
+[2016-09-25 21:42:40.288] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXro3EVnx91O1FwAfu.temperature'
+[2016-09-25 21:43:40.319] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXs1iDgOyGMbAMIOlL.temperature'
+[2016-09-25 21:44:40.365] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXsGNQj80JJsoFoZ99.temperature'
+[2016-09-25 21:45:40.379] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXsV194yy6bx50Km4G.temperature'
+[2016-09-25 21:46:40.409] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXsig7WWTdODVNRCvv.temperature'
+[2016-09-25 21:47:40.421] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXsxKokk8QdL4KTOJ8.temperature'
+[2016-09-25 21:48:40.440] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXtAzbFWzJw195uEu9.temperature'
+[2016-09-25 21:49:40.470] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXtPdaYiv_7Z4beQjC.temperature'
+[2016-09-25 21:50:40.479] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSXtdIDRtli4ok-HKpQ.temperature'
+[2016-09-25 21:51:43.458] [INFO] temperature - Started sampling at 60000ms
+[2016-09-26 12:46:14.193] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdI2NB9CTs4-E19LTu.temperature'
+[2016-09-26 12:47:14.197] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdIH10nIwRKzowaqD7.temperature'
+[2016-09-26 12:48:14.235] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdIVg8clDlGcKSUd8w.temperature'
+[2016-09-26 12:49:14.243] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdIjKlUSsBwpCA8xHV.temperature'
+[2016-09-26 12:50:14.255] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdIxzSiYoziU2N2Obb.temperature'
+[2016-09-26 12:51:14.286] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdJBdQk6T7Pkn9MfyZ.temperature'
+[2016-09-26 12:52:14.295] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdJQI37xItVkWKATxq.temperature'
+[2016-09-26 12:53:14.318] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdJdwviRVIwaZaNsiN.temperature'
+[2016-09-26 12:54:14.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdJsb1x-od2IWuUVvc.temperature'
+[2016-09-26 12:55:14.359] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdK6FZosYZNW_M1GkF.temperature'
+[2016-09-26 12:56:14.366] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdKKuAUAIO2C71HYjQ.temperature'
+[2016-09-26 12:57:14.405] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdKZZHW6MrcfNWj_n3.temperature'
+[2016-09-26 12:58:14.415] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdKnCxFpYmk_YcTV1f.temperature'
+[2016-09-26 12:59:14.440] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdL0rpVFkcDZu8yxvg.temperature'
+[2016-09-26 13:00:14.447] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdLFWRI662kTrrZph2.temperature'
+[2016-09-26 13:01:14.456] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdLUA5_gFVl3o_pcyU.temperature'
+[2016-09-26 13:02:14.465] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdLhohThmiTNktoEk0.temperature'
+[2016-09-26 13:03:14.504] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdLwTpcoLG6ddCOhIy.temperature'
+[2016-09-26 13:04:14.515] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdMA7VSXuR4KssNJ4s.temperature'
+[2016-09-26 13:05:14.538] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdMOmMGZwA0YsV6Y22.temperature'
+[2016-09-26 13:06:14.572] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdMcROP3j5zl0hBDMI.temperature'
+[2016-09-26 13:07:14.581] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdMr51D4U_3pI0843g.temperature'
+[2016-09-26 13:08:14.593] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdN4jhjXVY4Yrkm2NX.temperature'
+[2016-09-26 13:09:14.609] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdNJOTn9Sirf2Rs8Sz.temperature'
+[2016-09-26 13:10:14.617] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdNY25jtl0XWc87a7y.temperature'
+[2016-09-26 13:11:14.641] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdNlgytgf59Rw8pAQI.temperature'
+[2016-09-26 13:12:14.644] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdO-LUroDyiZGUby0t.temperature'
+[2016-09-26 13:13:14.655] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdOE-9X6fG73HnFLa6.temperature'
+[2016-09-26 13:14:14.680] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdOSe0JCmWnICbdA_W.temperature'
+[2016-09-26 13:15:14.706] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdOgIzBRYKpOYXX6o4.temperature'
+[2016-09-26 13:16:14.715] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdOuxdKfir61hxTT6T.temperature'
+[2016-09-26 13:17:14.739] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdP8bUbltpJXU5L5dg.temperature'
+[2016-09-26 13:18:14.744] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdPNG44KcVI7FxPJTM.temperature'
+[2016-09-26 13:19:14.752] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdPauiNbf06pF8wWQR.temperature'
+[2016-09-26 13:20:14.777] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdPpZbJidC-GirgcCh.temperature'
+[2016-09-26 13:21:14.780] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdQ3D9tPkkm0CYkhzC.temperature'
+[2016-09-26 13:22:14.790] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdQHrnayhix5gO0hzh.temperature'
+[2016-09-26 13:23:14.813] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdQWWejYrd1DsHD27i.temperature'
+[2016-09-26 13:24:14.851] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdQkAl-SxDH4uyDc46.temperature'
+[2016-09-26 13:25:14.855] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdQypK0yeIKIVqOQsJ.temperature'
+[2016-09-26 13:26:14.879] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdRCUBwMRuJlziQ2m5.temperature'
+[2016-09-26 13:27:14.918] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdRR8JhpTmMtAMQf_4.temperature'
+[2016-09-26 13:28:14.927] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdRemwH6ssPvJBd64I.temperature'
+[2016-09-26 13:29:14.938] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdRtRYKwgkIpblmj6a.temperature'
+[2016-09-26 13:30:14.938] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdS756OkKXZul3_G04.temperature'
+[2016-09-26 13:31:14.952] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdSLjpHZiA-U2iT8FU.temperature'
+[2016-09-26 13:32:14.973] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdS_OdzGnetKw6BsaF.temperature'
+[2016-09-26 13:33:15.013] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdSo2moUm6gGl1rey3.temperature'
+[2016-09-26 13:34:15.018] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdT1hMPmHmVpzU7pXi.temperature'
+[2016-09-26 13:35:15.043] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdTGMFxN-Sy5cPTWy1.temperature'
+[2016-09-26 13:36:15.082] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdTV0M9G7PDCRSZZF7.temperature'
+[2016-09-26 13:37:15.091] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdTif-vOij59qs1Bgx.temperature'
+[2016-09-26 13:38:15.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdTxJj8yJW3VnV5A3S.temperature'
+[2016-09-26 13:39:15.135] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdUAyhC4ZUuE34x_Ka.temperature'
+[2016-09-26 13:40:15.143] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdUPcJV782Vh98Mn4U.temperature'
+[2016-09-26 13:41:15.166] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdUdHBd5m_TQl3jF4y.temperature'
+[2016-09-26 13:42:15.204] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdUrwHYK4sNEWwT7Dr.temperature'
+[2016-09-26 13:43:15.215] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdV5_tskv818ZbkxDw.temperature'
+[2016-09-26 13:44:15.218] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdVKEV9aoeXhEB4xGQ.temperature'
+[2016-09-26 13:45:15.252] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdVYtWfgm_rLMgzh1q.temperature'
+[2016-09-26 13:46:15.264] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdVmYChHNuAb0rQOhV.temperature'
+[2016-09-26 13:47:15.269] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdW0Bm7H0atMdO2gbT.temperature'
+[2016-09-26 13:48:15.306] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdWEqs5fTmQpFKdh3k.temperature'
+[2016-09-26 13:49:15.309] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdWTVPciVFiNV8RMhm.temperature'
+[2016-09-26 13:50:15.326] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdWh9AK6qY3yg6_tkh.temperature'
+[2016-09-26 13:51:15.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdWvo80JZLfC27qGyQ.temperature'
+[2016-09-26 13:52:15.365] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdX9SnETx9dJcLg8Tl.temperature'
+[2016-09-26 13:53:15.385] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdXO6baQVZRVCIBX-U.temperature'
+[2016-09-26 13:54:15.425] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdXbliVFDGuun28-mF.temperature'
+[2016-09-26 13:55:15.425] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdXqQEdbqClF9jj7tV.temperature'
+[2016-09-26 13:56:15.450] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdY446--cx8B_gW8yI.temperature'
+[2016-09-26 13:57:15.463] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdYIioMITXhKcspLRg.temperature'
+[2016-09-26 13:58:15.472] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdYXNSmtb5-_gZ9GTB.temperature'
+[2016-09-26 13:59:15.496] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdYl1KM_NzmEfETqyH.temperature'
+[2016-09-26 14:00:15.507] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdYzg0vZY8IYx1lK-F.temperature'
+[2016-09-26 14:01:15.516] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdZDKdlqMVXZO2xm04.temperature'
+[2016-09-26 14:02:15.524] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdZRzGNQNymqOqFDMV.temperature'
+[2016-09-26 14:03:15.563] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdZfdNguIPH7yzLpgp.temperature'
+[2016-09-26 14:04:15.572] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdZuI0p1Z61x_3Gydr.temperature'
+[2016-09-26 14:05:15.595] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSd_7ws261fYVK_O6Br.temperature'
+[2016-09-26 14:06:15.607] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSd_MaYQ9DNDcgOE_C-.temperature'
+[2016-09-26 14:07:15.614] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSd_aFBpzhovHI0zbz2.temperature'
+[2016-09-26 14:08:15.640] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSd_ou5q1nQQo-t1pRj.temperature'
+[2016-09-26 14:09:15.644] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSda2YeUJl7-_Zy4BO5.temperature'
+[2016-09-26 14:10:15.652] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdaHCGi56BoH4LQ4si.temperature'
+[2016-09-26 14:11:15.675] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdaVr8U_DqzThCR9FE.temperature'
+[2016-09-26 14:12:15.725] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdajWEyY6dSc4Jus_z.temperature'
+[2016-09-26 14:13:15.723] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSday9s-xSzckh4g-D9.temperature'
+[2016-09-26 14:14:15.747] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdbBokqWuf9Hv4wAb1.temperature'
+[2016-09-26 14:15:15.786] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdbQTrP4xZwxlhat3Y.temperature'
+[2016-09-26 14:16:15.793] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdbe7UvUSnLceYpRzH.temperature'
+[2016-09-26 14:17:15.818] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdbsmMqxHH1C2SJtZu.temperature'
+[2016-09-26 14:18:15.854] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdc6RR7deXAduNEAzG.temperature'
+[2016-09-26 14:19:15.867] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdcL57k9Mlx6DML7y6.temperature'
+[2016-09-26 14:20:15.889] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdcZjyh7bdb0k9Hjjc.temperature'
+[2016-09-26 14:21:15.929] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdcnP6xfOaZ2-oRD4t.temperature'
+[2016-09-26 14:22:15.937] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdd12ieB0oKku5jBX2.temperature'
+[2016-09-26 14:23:15.959] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSddFh_U6NB9T8qkvKU.temperature'
+[2016-09-26 14:24:15.997] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSddUMff87yaQBLQvaJ.temperature'
+[2016-09-26 14:25:16.006] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSddi0I-L8vbR8GODcH.temperature'
+[2016-09-26 14:26:16.030] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSddwfAomrjNefAB4eV.temperature'
+[2016-09-26 14:27:16.068] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdeAKGB4PgTLGQhvvN.temperature'
+[2016-09-26 14:28:16.076] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdeOyuv-vIL2q29ZrD.temperature'
+[2016-09-26 14:29:16.098] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdecck3EIsZ5f3Gebl.temperature'
+[2016-09-26 14:30:16.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSderHMVAHdPDygedXf.temperature'
+[2016-09-26 14:31:16.113] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdf4vz8YdnMfGsUXWT.temperature'
+[2016-09-26 14:32:16.138] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdfJ_rojHKXcgDy0ma.temperature'
+[2016-09-26 14:33:16.177] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdfYEy4VLCsJ3yMPGB.temperature'
+[2016-09-26 14:34:16.185] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdfltbpVaUvjtF4J-S.temperature'
+[2016-09-26 14:35:16.207] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdg-YSTXFI3WbT1py2.temperature'
+[2016-09-26 14:36:16.247] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdgEC_mLX-q3BGEI_f.temperature'
+[2016-09-26 14:37:16.255] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdgSrCPvEat1_ukxDX.temperature'
+[2016-09-26 14:38:16.277] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdggW2jLT70LK17_fq.temperature'
+[2016-09-26 14:39:16.315] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdgvA71S2Bk0x30dFj.temperature'
+[2016-09-26 14:40:16.324] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdh8oltEjIH3Z7A5FK.temperature'
+[2016-09-26 14:41:16.331] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdhNTNLV2Kf1rZLeSN.temperature'
+[2016-09-26 14:42:16.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdhb7GSI7_gEUi4CEu.temperature'
+[2016-09-26 14:43:16.363] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdhpltgL_u_GbF1lnC.temperature'
+[2016-09-26 14:44:16.385] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdi3Qjl7W4mAjALgIA.temperature'
+[2016-09-26 14:45:16.415] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdiI4huLnYDohbJSL7.temperature'
+[2016-09-26 14:46:16.423] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdiWjKMUC-qT45dFcI.temperature'
+[2016-09-26 14:47:16.446] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdikOByTIo3rbyhBA5.temperature'
+[2016-09-26 14:48:16.458] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdiz1sqLM4fmX_Ii_H.temperature'
+[2016-09-26 14:49:16.466] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdjCgVx2sgyauC6U9A.temperature'
+[2016-09-26 14:50:16.477] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdjRLAN5PoCcMN7jfU.temperature'
+[2016-09-26 14:51:16.515] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdjf-FxfrKo3uo8q_9.temperature'
+[2016-09-26 14:52:16.524] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdjtduymZOhU9c5Mzk.temperature'
+[2016-09-26 14:53:16.548] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdk7Im_MvXECZWnT5m.temperature'
+[2016-09-26 14:54:16.586] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdkLxsyRlrrEN7B047.temperature'
+[2016-09-26 14:55:16.591] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdk_bPO_Jb_S_a-GLU.temperature'
+[2016-09-26 14:56:16.614] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdkoGAQAS-tgCW_SaE.temperature'
+[2016-09-26 14:57:16.674] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdl1valxxWVBGgfzrC.temperature'
+[2016-09-26 14:58:16.670] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdlG_BVkTE_OtZ2e4_.temperature'
+[2016-09-26 14:59:16.675] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdlVDkS2Tpkhzw2F83.temperature'
+[2016-09-26 15:00:16.713] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdlisqdysFVKhG9SkV.temperature'
+[2016-09-26 15:01:16.720] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdlxXTmOKREex6AiSN.temperature'
+[2016-09-26 15:02:16.742] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdmBBJ3LF38PkURSfG.temperature'
+[2016-09-26 15:03:16.760] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdmPq4ojW9oGmfSBNP.temperature'
+[2016-09-26 15:04:16.768] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdmdUh_YjM3ruXxpSi.temperature'
+[2016-09-26 15:05:16.791] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdms8ZBrFiRSyxeE-x.temperature'
+[2016-09-26 15:06:16.829] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdn5neeWq30o8CuuV_.temperature'
+[2016-09-26 15:07:16.837] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdnKSHz0It8g3ZLOLH.temperature'
+[2016-09-26 15:08:16.856] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdnZ652T366VC0M4TW.temperature'
+[2016-09-26 15:09:16.895] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdnmlCIYUxm0UnyMY1.temperature'
+[2016-09-26 15:10:16.905] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdo0Pq7NU268pBjeEV.temperature'
+[2016-09-26 15:11:16.928] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdoF3ianbY0twWzKHi.temperature'
+[2016-09-26 15:12:16.953] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdoTiaVK6jEwqiZ0b0.temperature'
+[2016-09-26 15:13:16.956] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdohN8mwVkHTxSnXv2.temperature'
+[2016-09-26 15:14:16.975] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdow0xOdpCr8SLyruU.temperature'
+[2016-09-26 15:15:17.015] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdp9g3_Ni24QlprQ5O.temperature'
+[2016-09-26 15:16:17.023] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdpOKhSRgCwL4dI650.temperature'
+[2016-09-26 15:17:17.046] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdpbzZFNppF-jiOjMw.temperature'
+[2016-09-26 15:18:17.085] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdpqdfPw_jyNn-aV2y.temperature'
+[2016-09-26 15:19:17.093] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdq4IIojr-J4gj6zzE.temperature'
+[2016-09-26 15:20:17.105] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdqIwzB8m7IW4m-dxk.temperature'
+[2016-09-26 15:21:17.142] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdqXb3ku5hMP16mGsD.temperature'
+[2016-09-26 15:22:17.150] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdqlFf2CDX5v5fQEaC.temperature'
+[2016-09-26 15:23:17.174] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdqzuYJPagplI3hZ7-.temperature'
+[2016-09-26 15:24:17.213] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdrDZewi8D3mSsFsOm.temperature'
+[2016-09-26 15:25:17.219] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdrSDGJKnIL4CiewZ_.temperature'
+[2016-09-26 15:26:17.242] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdrfs6mtMCqIpo-_Nd.temperature'
+[2016-09-26 15:27:17.279] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdruXBFRhLSJgBijSo.temperature'
+[2016-09-26 15:28:17.286] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSds8AnQk_S8wy8nKUg.temperature'
+[2016-09-26 15:29:17.309] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdsMpeW1BP2-npoNUu.temperature'
+[2016-09-26 15:30:17.346] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdsaUjnWigiTQ6tmr1.temperature'
+[2016-09-26 15:31:17.354] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdsp8MQCUiYkfJkI13.temperature'
+[2016-09-26 15:32:17.362] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdt2mzjL_h63FynUC0.temperature'
+[2016-09-26 15:33:17.401] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdtHS5D8rQRgRzIKGa.temperature'
+[2016-09-26 15:34:17.408] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdtW5huiqE8bPlf_5a.temperature'
+[2016-09-26 15:35:17.432] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdtjkZFDYV4ovyiOR1.temperature'
+[2016-09-26 15:36:17.470] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdtyPfgnIK21ZM8VM_.temperature'
+[2016-09-26 15:37:17.478] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSduC3JijW0uV_6ehp4.temperature'
+[2016-09-26 15:38:17.483] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSduQht_lmw0KTDeP_-.temperature'
+[2016-09-26 15:39:17.522] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdueN-YdG3f02SA8gy.temperature'
+[2016-09-26 15:40:17.528] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdut0aLnutC1W-ayw_.temperature'
+[2016-09-26 15:41:17.550] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdv6fQyWLrvNB42KPB.temperature'
+[2016-09-26 15:42:17.587] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdvLKVPG8F0XUm3H2s.temperature'
+[2016-09-26 15:43:17.594] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdvZz6sKVsImOJhFX9.temperature'
+[2016-09-26 15:44:17.605] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdvncnOV0_-ruWjX0I.temperature'
+[2016-09-26 15:45:17.644] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdw1HtoYM9lkKTrBgm.temperature'
+[2016-09-26 15:46:17.651] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdwFwVi9pwygToGUl7.temperature'
+[2016-09-26 15:47:17.673] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdwUaLjlh11vJ0dJ4A.temperature'
+[2016-09-26 15:48:17.673] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdwiErmtpKVZX16xxL.temperature'
+[2016-09-26 15:49:17.681] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdwwtT9pXaXOEdUecW.temperature'
+[2016-09-26 15:50:17.704] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdxAYKO5tImykz3tEs.temperature'
+[2016-09-26 15:51:17.740] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdxPCP-wIb7F8myG-i.temperature'
+[2016-09-26 15:52:17.748] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdxcr0Y8rgNv1POzyM.temperature'
+[2016-09-26 15:53:17.770] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdxrVr6FKsyny4MQLJ.temperature'
+[2016-09-26 15:54:17.806] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdy59w026K4kci5wZZ.temperature'
+[2016-09-26 15:55:17.813] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdyJoYx-qCEozc7_wX.temperature'
+[2016-09-26 15:56:17.837] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdyYTQaSOixPvrAZdG.temperature'
+[2016-09-26 15:57:17.856] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdym7Cjz8iEPNIKUZ2.temperature'
+[2016-09-26 15:58:17.863] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdz-lpkIOoEmbx5MXD.temperature'
+[2016-09-26 15:59:17.886] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdzEQfV_15uFXsmItn.temperature'
+[2016-09-26 16:00:17.923] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdzT4kNPu6RMrU_wk6.temperature'
+[2016-09-26 16:01:17.930] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdzgjNDG2GYG1_kvjO.temperature'
+[2016-09-26 16:02:17.964] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSdzvOCHbK7BBh-rA3E.temperature'
+[2016-09-26 16:03:17.990] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe-92IbiMCFnIMWVnQ.temperature'
+[2016-09-26 16:04:17.998] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe-Ngve9roByBmRsvQ.temperature'
+[2016-09-26 16:05:18.019] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe-bLkgzKQxP-Ffd--.temperature'
+[2016-09-26 16:06:18.056] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe-q-plaoDUGyxO9f8.temperature'
+[2016-09-26 16:07:18.064] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe03eS8khHgY8PIrZZ.temperature'
+[2016-09-26 16:08:18.086] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe0IJInCeQ4ynI_JJ_.temperature'
+[2016-09-26 16:09:18.096] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe0WxxED_esCyyaVki.temperature'
+[2016-09-26 16:10:18.102] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe0kbZBLKEzzy3f0Kg.temperature'
+[2016-09-26 16:11:18.105] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe0zG6kIxysNWJCi8y.temperature'
+[2016-09-26 16:12:18.142] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe1CvADLae0jjkoqZk.temperature'
+[2016-09-26 16:13:18.148] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe1RZl2xmp2fBnP1qe.temperature'
+[2016-09-26 16:14:18.169] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe1fDbjr-sWfvQKXfb.temperature'
+[2016-09-26 16:15:18.176] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe1tsC-rDuqWV-xFJV.temperature'
+[2016-09-26 16:16:18.183] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe27WovzyUCT1KuhPm.temperature'
+[2016-09-26 16:17:18.195] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe2MAWAGLILP464rTO.temperature'
+[2016-09-26 16:18:18.234] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe2_pbxSJ8ty_0LHLl.temperature'
+[2016-09-26 16:19:18.240] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe2oUCfrKjaIe43L2e.temperature'
+[2016-09-26 16:20:18.263] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe3283jmZUTgXzAEXt.temperature'
+[2016-09-26 16:21:18.295] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe3Gn4ltpR26CBLqog.temperature'
+[2016-09-26 16:22:18.302] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe3VRgDrYemFnZXKFM.temperature'
+[2016-09-26 16:23:18.304] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe3j5DcD3Ea3zjV5Ws.temperature'
+[2016-09-26 16:24:18.341] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe3xkINNQhn2yd5rHx.temperature'
+[2016-09-26 16:25:18.348] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe4BOuM1YZFEny5VnD.temperature'
+[2016-09-26 16:26:18.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe4Q2WniFC7oB_njJd.temperature'
+[2016-09-26 16:27:18.392] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe4dhaqjnkhxFoyf7Q.temperature'
+[2016-09-26 16:28:18.400] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe4sMDrGMYdB0jcP6a.temperature'
+[2016-09-26 16:29:18.424] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe56042kgOd-_E5r6V.temperature'
+[2016-09-26 16:30:18.461] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe5Kf9nHmCqxbHOyLQ.temperature'
+[2016-09-26 16:31:18.471] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe5ZJpYZYx4S7ihJQY.temperature'
+[2016-09-26 16:32:18.498] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe5myk-oltT2WX20XG.temperature'
+[2016-09-26 16:33:18.536] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe60cpF0ZwB8x9Q1zG.temperature'
+[2016-09-26 16:34:18.543] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe6FHRR7jEQBHgDb59.temperature'
+[2016-09-26 16:35:18.565] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe6TwHShZbB4vnbNTA.temperature'
+[2016-09-26 16:36:18.603] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe6haNVupQmG1TeC_W.temperature'
+[2016-09-26 16:37:18.606] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe6wEvCMMkNW08NoUs.temperature'
+[2016-09-26 16:38:18.626] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe79tje5YDdlY6FVQ5.temperature'
+[2016-09-26 16:39:18.645] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe7OYYHhmEo1Sym-1u.temperature'
+[2016-09-26 16:40:18.651] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe7cC8_aDS8qhZlABP.temperature'
+[2016-09-26 16:41:18.655] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe7qqh-W8G4mTNZk7f.temperature'
+[2016-09-26 16:42:18.675] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe84VWzmicNLFlwXNK.temperature'
+[2016-09-26 16:43:18.677] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe8J92mhk-hgYs0Gtw.temperature'
+[2016-09-26 16:44:18.684] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe8Xnd_-pSLjFS4xgY.temperature'
+[2016-09-26 16:45:18.707] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe8lSV638jFi5ZOSMh.temperature'
+[2016-09-26 16:46:18.713] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe9-66F7P95K4Z6V2r.temperature'
+[2016-09-26 16:47:18.736] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe9DkyC6FmfdZmIY7f.temperature'
+[2016-09-26 16:48:18.753] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe9SPjBZvOkZSsK9kV.temperature'
+[2016-09-26 16:49:18.759] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe9g3JBIdHN5boCWNR.temperature'
+[2016-09-26 16:50:18.780] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSe9ui9nxEi6ImPF0wm.temperature'
+[2016-09-26 16:51:18.811] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeA8N8E5f4q6FegcEf.temperature'
+[2016-09-26 16:52:18.819] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeAN0kl02LgoJrZ9Ch.temperature'
+[2016-09-26 16:53:18.823] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeAafKIqzmcfHX0eTX.temperature'
+[2016-09-26 16:54:18.856] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeApKKN3gjo-DJ06pC.temperature'
+[2016-09-26 16:55:18.862] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeB2yvpLzWRFZIN-PJ.temperature'
+[2016-09-26 16:56:18.866] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeBHcV3ZhvkB_9IhH_.temperature'
+[2016-09-26 16:57:18.902] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeBWHYr3HXG5DU8tKN.temperature'
+[2016-09-26 16:58:18.907] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeBjw8FIAD0hpEACjl.temperature'
+[2016-09-26 16:59:18.931] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeBya-IZn6j3uX_YEB.temperature'
+[2016-09-26 17:00:18.968] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeCCF5K83_-AGssT3P.temperature'
+[2016-09-26 17:01:18.976] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeCQtiDB-C44AInbvW.temperature'
+[2016-09-26 17:02:18.978] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeCeYF6nJVuuXvUzc3.temperature'
+[2016-09-26 17:03:19.007] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeCtCBACvd1-i-FNuA.temperature'
+[2016-09-26 17:04:19.013] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeD6qma6d5cgk12hQJ.temperature'
+[2016-09-26 17:05:19.026] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeDLVUmOi-4xIxNTP6.temperature'
+[2016-09-26 17:06:19.062] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSeD_9ZaVFAOMuMK5Qo.temperature'
+[2016-09-26 17:07:19.067] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb1IGNgqlSEMq1jDIz.temperature'
+[2016-09-26 17:08:19.086] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb1Wv9HWla-SijvITz.temperature'
+[2016-09-26 17:09:19.105] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb1kZy_J9ZwrgH8UvZ.temperature'
+[2016-09-26 17:10:19.120] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb1zDgRTbBO847_Udg.temperature'
+[2016-09-26 17:11:19.151] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb2Csgc0a3O-RYezFI.temperature'
+[2016-09-26 17:12:19.196] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb2RXt3VYGvaJ19KZS.temperature'
+[2016-09-26 17:13:19.212] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb2fBcSaFS4R4yQIPc.temperature'
+[2016-09-26 17:14:19.246] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb2tqbIlj52DyXTAH9.temperature'
+[2016-09-26 17:15:19.288] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb37VoWkfxfL2tjmmn.temperature'
+[2016-09-26 17:16:19.296] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb3M9Rh0evLqWE50iw.temperature'
+[2016-09-26 17:17:19.307] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb3_o6ZOG7WOGT2Syv.temperature'
+[2016-09-26 17:18:19.351] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb3oTJ8JLYWbyr3jYI.temperature'
+[2016-09-26 17:19:19.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb426sNupD2vpdfmti.temperature'
+[2016-09-26 17:20:19.367] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb4GlYuj-si7IxX8JQ.temperature'
+[2016-09-26 17:21:19.412] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb4VQlRqcf3CaE1KaG.temperature'
+[2016-09-26 17:22:19.429] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb4j4W0mLSyz6N_EhP.temperature'
+[2016-09-26 17:23:19.459] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb4xjUyT7GhF1VA5pu.temperature'
+[2016-09-26 17:24:19.463] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb5BO1vXWc-TUQBgew.temperature'
+[2016-09-26 17:25:19.477] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb5Q1mFbTcngH9cQY8.temperature'
+[2016-09-26 17:26:19.509] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb5dgl8iNOeP24a9uj.temperature'
+[2016-09-26 17:27:19.538] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb5sLi8WTvXsXa-0l1.temperature'
+[2016-09-26 17:28:19.554] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb66-Te_8ypSip58k1.temperature'
+[2016-09-26 17:29:19.584] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb6KeRIlO8VtmZ09oV.temperature'
+[2016-09-26 17:30:19.606] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb6ZJHTwUsrHTDdNpZ.temperature'
+[2016-09-26 17:31:19.621] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb6my0lgWK8AXBOaoP.temperature'
+[2016-09-26 17:32:19.651] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb70bzHmxisx3ZXqgl.temperature'
+[2016-09-26 17:33:19.696] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb7FHBQ66qKK_P-Fts.temperature'
+[2016-09-26 17:34:19.710] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb7Tvvij1MH4nwijZH.temperature'
+[2016-09-26 17:35:19.726] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb7h_etYgrwpRlka1y.temperature'
+[2016-09-26 17:36:19.745] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb7wETXxFziELpWFfk.temperature'
+[2016-09-26 17:37:19.760] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb89tBP0stElZANsYB.temperature'
+[2016-09-26 17:38:19.787] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb8OY6sYrPn0osFzPj.temperature'
+[2016-09-26 17:39:19.822] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb8cCAClIWA9sFEAMq.temperature'
+[2016-09-26 17:40:19.838] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb8qqvpZtTfS45OI0a.temperature'
+[2016-09-26 17:41:19.855] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb94Vgkp-zWT1rcOZh.temperature'
+[2016-09-26 17:42:19.900] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb9J9tuThk6TOs-jEJ.temperature'
+[2016-09-26 17:43:19.917] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb9XodhgoiUFY16YAk.temperature'
+[2016-09-26 17:44:19.946] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb9lTb8RgQ0Lb2oEz0.temperature'
+[2016-09-26 17:45:19.992] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbA-7pKDt-B3e5-ora.temperature'
+[2016-09-26 17:46:20.007] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbADmYUHP9_7xXfqnz.temperature'
+[2016-09-26 17:47:20.026] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbASRL_KxbJCgZISuL.temperature'
+[2016-09-26 17:48:20.070] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbAg5YWjX9GiGo3rO9.temperature'
+[2016-09-26 17:49:20.087] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbAukIhz9oek6je3m8.temperature'
+[2016-09-26 17:50:20.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbB8P5q5Xdr0LVVS1e.temperature'
+[2016-09-26 17:51:20.126] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbBN2u--I7Bt5x8nKq.temperature'
+[2016-09-26 17:52:20.141] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbBahdM1tpYVVa-D1V.temperature'
+[2016-09-26 17:53:20.151] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbBpMIzPhOLsPl2odr.temperature'
+[2016-09-26 17:54:20.195] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbC30V4A5RuE-sE5_7.temperature'
+[2016-09-26 17:55:20.212] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbCHfF0zBmWj6WM8S7.temperature'
+[2016-09-26 17:56:20.243] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbCWKEESgoJrjz6B_a.temperature'
+[2016-09-26 17:57:20.289] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbCjzSLqvlpvoKR6zq.temperature'
+[2016-09-26 17:58:20.303] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbCydB8SPL8M_Lll88.temperature'
+[2016-09-26 17:59:20.335] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbDCIBvo8unR0yHeqb.temperature'
+[2016-09-26 18:00:20.368] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbDQxBScPt0rLdHB58.temperature'
+[2016-09-26 18:01:20.384] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbDeawNEvygX-Z-XZb.temperature'
+[2016-09-26 18:02:20.414] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbDtFv4nQEuCwfGkiR.temperature'
+[2016-09-26 18:03:20.450] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbE6uzllcUuzBBh-6n.temperature'
+[2016-09-26 18:04:20.455] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbELZZGpI0XAdgTLRR.temperature'
+[2016-09-26 18:05:20.475] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbE_DNz65gse02M-kW.temperature'
+[2016-09-26 18:06:20.485] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbEns1koKY_5dx8B-g.temperature'
+[2016-09-26 18:07:20.500] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbF1WlQHfu5Ak6evzB.temperature'
+[2016-09-26 18:08:20.520] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbFGA_sT9JSohyWZJn.temperature'
+[2016-09-26 18:09:20.562] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbFUpjQijHTWxvmUs1.temperature'
+[2016-09-26 18:10:20.577] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbFiUTny1Vaw9D0lgm.temperature'
+[2016-09-26 18:11:20.605] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbFx8PmKPRhux5FI7x.temperature'
+[2016-09-26 18:12:20.650] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbGAnanuWNZCE-6Gc_.temperature'
+[2016-09-26 18:13:20.665] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbGPSKs4-hjJIXsl_t.temperature'
+[2016-09-26 18:14:20.695] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbGd6IJa4NGKn-8g4U.temperature'
+[2016-09-26 18:15:20.740] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbGrlVGn3zvHVyQS4m.temperature'
+[2016-09-26 18:16:20.755] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbH5QFUyfpvMKbUhW0.temperature'
+[2016-09-26 18:17:20.779] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbHK47A8gyiQKQa4O2.temperature'
+[2016-09-26 18:18:20.826] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbHYjLf-g7jYckq4N6.temperature'
+[2016-09-26 18:19:20.842] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbHmO5JUJptUcaD1-2.temperature'
+[2016-09-26 18:20:20.856] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbI01o3DXH27z-ivA-.temperature'
+[2016-09-26 18:21:20.888] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbIEgo2ZdbShQ9hHzz.temperature'
+[2016-09-26 18:22:20.903] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbITLYvCXS4wwXU5qp.temperature'
+[2016-09-26 18:23:20.932] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbIh-WkVbvYP-qbRW-.temperature'
+[2016-09-26 18:24:20.953] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbIveK7sxlxyI7awyO.temperature'
+[2016-09-26 18:25:20.957] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbJ9IuEp5c1wtlAEh6.temperature'
+[2016-09-26 18:26:20.988] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbJNxtRSIXALWFgeSP.temperature'
+[2016-09-26 18:27:21.033] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbJbc4PjolcR9N3hIf.temperature'
+[2016-09-26 18:28:21.048] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbJqGoryplaX71-R6d.temperature'
+[2016-09-26 18:29:21.078] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbK3vmAVauA3RLjUNW.temperature'
+[2016-09-26 18:30:21.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbKI_im-AK_TSnX3At.temperature'
+[2016-09-26 18:31:21.115] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbKXEMhAHralSaRbLV.temperature'
+[2016-09-26 18:32:21.146] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbKktLHzu1eBAr8pL6.temperature'
+[2016-09-26 18:33:21.176] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbKzYKJ8zpovpbjJ97.temperature'
+[2016-09-26 18:34:21.191] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbLDC3mUo2yAiUyM_H.temperature'
+[2016-09-26 18:35:21.206] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbLRqmdCtjne8leNU0.temperature'
+[2016-09-26 18:36:21.250] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbLfVz_qbYTL0XbZFk.temperature'
+[2016-09-26 18:37:21.266] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbLu9jVkgAClGiaxPL.temperature'
+[2016-09-26 18:38:21.295] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbM7ogDDmSBH7b2mbP.temperature'
+[2016-09-26 18:39:21.340] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbMMTtdM5LUg06zjNM.temperature'
+[2016-09-26 18:40:21.355] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbMa7cyxBsccauyYRn.temperature'
+[2016-09-26 18:41:21.377] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbMomTWFzLMaHvK1-s.temperature'
+[2016-09-26 18:42:21.405] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbN2RPwWpxRTa1RaMZ.temperature'
+[2016-09-26 18:43:21.422] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbNH59QJjQgq1eqo8N.temperature'
+[2016-09-26 18:44:21.453] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbNVk8I828Ba5OKrfa.temperature'
+[2016-09-26 18:45:21.487] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbNjPBOF43epe-RB8V.temperature'
+[2016-09-26 18:46:21.502] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbNy2u6yedPegMoR8R.temperature'
+[2016-09-26 18:47:21.532] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbOBhs97sylvN0UpxE.temperature'
+[2016-09-26 18:48:21.580] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbOQN8Z8ptI5Jd3JVG.temperature'
+[2016-09-26 18:49:21.586] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbOe0jLk20o8VWCOyO.temperature'
+[2016-09-26 18:50:21.606] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbOsfXUr6bJRrs8NzB.temperature'
+[2016-09-26 18:51:21.609] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbP6K4r5ZxHrvjYoLx.temperature'
+[2016-09-26 18:52:21.623] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbPKyoS7PsuIeaPXLl.temperature'
+[2016-09-26 18:53:21.653] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbPZcl9aI4q6HR0pQi.temperature'
+[2016-09-26 18:54:21.698] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbPnHy1KW9TNlmQsyr.temperature'
+[2016-09-26 18:55:21.713] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbQ0wii_DeRcj4bGhU.temperature'
+[2016-09-26 18:56:21.745] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbQFahRInhelUxJGVy.temperature'
+[2016-09-26 18:57:21.752] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbQUFKqSNCPipgDk9Q.temperature'
+[2016-09-26 18:58:21.766] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbQhu2qzzAqjs2SnrQ.temperature'
+[2016-09-26 18:59:21.797] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbQwZ1ZY8d2OGb4V5S.temperature'
+[2016-09-26 19:00:21.807] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbRACfXn-xLOHBEtPU.temperature'
+[2016-09-26 19:01:21.815] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbROrJijkHQ2bhIDL8.temperature'
+[2016-09-26 19:02:21.825] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbRcVyiZC6qEl5CoCx.temperature'
+[2016-09-26 19:03:21.870] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbRrA9YWVrgx4rhrsP.temperature'
+[2016-09-26 19:04:21.883] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbS4osKSVPbKemrc_I.temperature'
+[2016-09-26 19:05:21.913] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbSJTpu_c7k95C3ujk.temperature'
+[2016-09-26 19:06:21.957] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbSY81Hlk4k0Kejfsb.temperature'
+[2016-09-26 19:07:21.973] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbSlmmB3jn2i8YL-Gc.temperature'
+[2016-09-26 19:08:22.003] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbT-Rj9UUGv9M7FUvS.temperature'
+[2016-09-26 19:09:22.040] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbTE5oimxHctGn3Ppm.temperature'
+[2016-09-26 19:10:22.048] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbTSkSo1R0A__iwJTL.temperature'
+[2016-09-26 19:11:22.078] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbTgPQgGbhbHtboMGp.temperature'
+[2016-09-26 19:12:22.105] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbTv3Llx3LVRlJxmdp.temperature'
+[2016-09-26 19:13:22.120] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbU8i4br8t0EyjWHWj.temperature'
+[2016-09-26 19:14:22.150] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbUNN1_ZhugCDwlPFe.temperature'
+[2016-09-26 19:15:22.195] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbUb1ECAsMxRV65-js.temperature'
+[2016-09-26 19:16:22.210] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbUpfyY3Ejbs1i457B.temperature'
+[2016-09-26 19:17:22.242] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbV3KxAODaGyBBF6xC.temperature'
+[2016-09-26 19:18:22.250] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbVHzZuOmHhYPqK1Jh.temperature'
+[2016-09-26 19:19:22.285] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbVWd_7yJrZj-Osj_h.temperature'
+[2016-09-26 19:20:22.296] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbVkIJkY_eUo3QYTme.temperature'
+[2016-09-26 19:21:22.341] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbVyxWJ0EnLRxbNs4z.temperature'
+[2016-09-26 19:22:22.357] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbWCbGkEKOkgGwrpO5.temperature'
+[2016-09-26 19:23:22.386] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbWRGDQ_dh-4TROVT8.temperature'
+[2016-09-26 19:24:22.430] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbWevQZFNpuibumAyT.temperature'
+[2016-09-26 19:25:22.446] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbWt_AGRiQxzpt7mFG.temperature'
+[2016-09-26 19:26:22.458] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbX7DreOkZmTX-MFFx.temperature'
+[2016-09-26 19:27:22.504] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbXLt4VP25KjdPPUOp.temperature'
+[2016-09-26 19:28:22.519] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbX_Xnp69Tgkzuaw5U.temperature'
+[2016-09-26 19:29:22.549] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbXoBlGS4VJALn_FkW.temperature'
+[2016-09-26 19:30:22.553] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbY1qKmENXcrezx3xP.temperature'
+[2016-09-26 19:31:22.555] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbYGUsghWT89vja8Cz.temperature'
+[2016-09-26 19:32:22.584] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbYV8o2MmINlR-8tmY.temperature'
+[2016-09-26 19:33:22.605] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbYinentUzuMzX6f2R.temperature'
+[2016-09-26 19:34:22.620] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbYxSOW8FbmQHe4FOe.temperature'
+[2016-09-26 19:35:22.623] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbZB5wmC6mMfl8R4ps.temperature'
+[2016-09-26 19:36:22.667] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbZPl7sUd2aNYXJsLW.temperature'
+[2016-09-26 19:37:22.682] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbZdPrSj6t4_UrtKym.temperature'
+[2016-09-26 19:38:22.713] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbZs3qdeMzzNkA7jGR.temperature'
+[2016-09-26 19:39:22.759] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb_5j38_37ye0IxrHJ.temperature'
+[2016-09-26 19:40:22.775] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb_KNolcXfMQ4EDx6D.temperature'
+[2016-09-26 19:41:22.797] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb_Z1dkBOZA6Vo0bNQ.temperature'
+[2016-09-26 19:42:22.841] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSb_mgpiqEAUrduhGcW.temperature'
+[2016-09-26 19:43:22.855] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSba0LZrdMCWSD6M8f4.temperature'
+[2016-09-26 19:44:22.887] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbaF-YZzA8O1waNiP-.temperature'
+[2016-09-26 19:45:22.933] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbaTelJe326Sc0VqBR.temperature'
+[2016-09-26 19:46:22.948] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbahJWTbs33B1r8Jch.temperature'
+[2016-09-26 19:47:22.979] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbavyVFOH8eJ7juy4B.temperature'
+[2016-09-26 19:48:23.024] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbb9cgAzoQa-eBUspv.temperature'
+[2016-09-26 19:49:23.038] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbbOHPcSu5kdp1dhDS.temperature'
+[2016-09-26 19:50:23.067] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbbbwNRh1GzZHObtC1.temperature'
+[2016-09-26 19:51:23.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbbqaTCdpb8CZ_1fUU.temperature'
+[2016-09-26 19:52:23.121] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbc4FC3fCFD3lQ03sN.temperature'
+[2016-09-26 19:53:23.150] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbcIu9PJjB3Hu0_t45.temperature'
+[2016-09-26 19:54:23.195] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbcXZMNTZl62snzhgv.temperature'
+[2016-09-26 19:55:23.209] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbclD4O18o7VBrHI9a.temperature'
+[2016-09-26 19:56:23.240] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbczs2lH-1bIJPSYX7.temperature'
+[2016-09-26 19:57:23.274] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbdDX5Hf10TV3OZSCT.temperature'
+[2016-09-26 19:58:23.288] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbdSAoTbJm3TYjqLgZ.temperature'
+[2016-09-26 19:59:23.295] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbdfpRdqVqqYU2DAFL.temperature'
+[2016-09-26 20:00:23.340] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbduUdsXUCsRbC1VsQ.temperature'
+[2016-09-26 20:01:23.352] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbe88Kw9nMpypVf__M.temperature'
+[2016-09-26 20:02:23.383] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbeMnIMw0KMJjKjuA8.temperature'
+[2016-09-26 20:03:23.428] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbeaSU-ioERrd7pAI_.temperature'
+[2016-09-26 20:04:23.442] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbep6DNu3efQygYC2t.temperature'
+[2016-09-26 20:05:23.455] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbf2kvn9VuwKfa20Nf.temperature'
+[2016-09-26 20:06:23.497] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbfHQ5pFSRGSXVDNVc.temperature'
+[2016-09-26 20:07:23.514] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbfW3qxXzRpk7q5Ff2.temperature'
+[2016-09-26 20:08:23.544] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbfjioiJTZqV2UVlhn.temperature'
+[2016-09-26 20:09:23.589] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbfyO12F6zpj37r5TA.temperature'
+[2016-09-26 20:10:23.604] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbgC1kNerwszqp-lOB.temperature'
+[2016-09-26 20:11:23.606] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbgQgHlKVNsUoUIeZN.temperature'
+[2016-09-26 20:12:23.651] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbgeLVd8XK_EPw1W_r.temperature'
+[2016-09-26 20:13:23.658] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbgt-67eg-iiFeZUaz.temperature'
+[2016-09-26 20:14:23.690] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbh6e5iM505lJDeb6C.temperature'
+[2016-09-26 20:15:23.735] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbhLJI7LmUmhIgdwFK.temperature'
+[2016-09-26 20:16:23.751] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbhZy2b9RyuzNvBR3Z.temperature'
+[2016-09-26 20:17:23.758] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbhnbfK-X-7ifUnvgK.temperature'
+[2016-09-26 20:18:23.806] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbi1GuKE8ObagBIUl0.temperature'
+[2016-09-26 20:19:23.821] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbiFveA0-OX-WOjw-Z.temperature'
+[2016-09-26 20:20:23.851] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbiU_b79AvUxS6d9og.temperature'
+[2016-09-26 20:21:23.884] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbiiEd4xiGeYkbQ1rR.temperature'
+[2016-09-26 20:22:23.899] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbiwtMaTReqDrLUlNz.temperature'
+[2016-09-26 20:23:23.911] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbjAY3awQJcbtc0Jaw.temperature'
+[2016-09-26 20:24:23.949] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbjPC9aX5vbeqGkGCx.temperature'
+[2016-09-26 20:25:23.965] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbjcquDQMRdLf_pEQv.temperature'
+[2016-09-26 20:26:23.995] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbjrVsOLECoe8tWP92.temperature'
+[2016-09-26 20:27:24.025] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbk59q3_jbVPr6e5Rk.temperature'
+[2016-09-26 20:28:24.035] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbkJoVd8ObjLwv-tgz.temperature'
+[2016-09-26 20:29:24.065] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbkYTTFAF1z037nMjK.temperature'
+[2016-09-26 20:30:24.073] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbkm752ohWD-PkfaG2.temperature'
+[2016-09-26 20:31:24.088] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbl-lpdkD3Wm1aPa_-.temperature'
+[2016-09-26 20:32:24.106] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSblEQaxHvfzwKqZhjO.temperature'
+[2016-09-26 20:33:24.151] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSblT4nI9rfA6Q0UJni.temperature'
+[2016-09-26 20:34:24.165] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSblgjXla64UIuoTvmK.temperature'
+[2016-09-26 20:35:24.194] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSblvOTOMu5hR3rUvPg.temperature'
+[2016-09-26 20:36:24.240] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbm92g2FtkeGQrnBZY.temperature'
+[2016-09-26 20:37:24.254] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbmNhPfxGNJ0S9m-bm.temperature'
+[2016-09-26 20:38:24.256] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbmbLwYKebYPFENUmJ.temperature'
+[2016-09-26 20:39:24.296] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbmq03JKRhtFLNjO7F.temperature'
+[2016-09-26 20:40:24.310] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbn3emywu6VNfCpAjH.temperature'
+[2016-09-26 20:41:24.340] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbnIJk6nEDNqhFAMkS.temperature'
+[2016-09-26 20:42:24.356] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbnWyVtUaBOAz3t-0n.temperature'
+[2016-09-26 20:43:24.371] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbnkcE2eu1sTOcch3j.temperature'
+[2016-09-26 20:44:24.401] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbnzHCauhvWa5sUX8x.temperature'
+[2016-09-26 20:45:24.446] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSboCwPm5XaN26cnBbG.temperature'
+[2016-09-26 20:46:24.461] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSboRa9tS1dyJ1hdFj-.temperature'
+[2016-09-26 20:47:24.491] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbofF60wusWQBnstcJ.temperature'
+[2016-09-26 20:48:24.537] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbotuKz0adQMQmZz4G.temperature'
+[2016-09-26 20:49:24.548] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbp7Z-2n-3N9wZJ1sL.temperature'
+[2016-09-26 20:50:24.578] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbpMCyrzxl3A5RvR1M.temperature'
+[2016-09-26 20:51:24.606] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbp_ruW6WOrJGLddCk.temperature'
+[2016-09-26 20:52:24.621] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbpoWdtYQqDP3HTxCs.temperature'
+[2016-09-26 20:53:24.630] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbq2AHod_T58JT2XXp.temperature'
+[2016-09-26 20:54:24.631] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbqGooxMsqKj3A8WO_.temperature'
+[2016-09-26 20:55:24.645] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbqVTXIkaNc6uGyr30.temperature'
+[2016-09-26 20:56:24.675] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbqj7VvgaXD2FcEolF.temperature'
+[2016-09-26 20:57:24.720] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbqxmhyUNI-sEPMkwx.temperature'
+[2016-09-26 20:58:24.725] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbrBRH7jZeWbEjTkin.temperature'
+[2016-09-26 20:59:24.727] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbrQ4nDk98-3RVr_-Z.temperature'
+[2016-09-26 21:00:24.771] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbrdjzxrc1ZkFuup74.temperature'
+[2016-09-26 21:01:24.786] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbrsOiVsgJNsE0Q-y8.temperature'
+[2016-09-26 21:02:24.816] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbs62hahMuPmaFejLA.temperature'
+[2016-09-26 21:03:24.862] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbsKhv45b-c5T0LaYI.temperature'
+[2016-09-26 21:04:24.876] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbsZMcM3-H5YpU0Ulb.temperature'
+[2016-09-26 21:05:24.906] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbsn0aAfLPuCd7LrOL.temperature'
+[2016-09-26 21:06:24.947] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbt0fjphakMb0lGd1Z.temperature'
+[2016-09-26 21:07:24.962] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbtFKTEfmUkPysc_H2.temperature'
+[2016-09-26 21:08:24.992] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbtTzRFM3MfWEFIlHa.temperature'
+[2016-09-26 21:09:25.038] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbthdeEi0QmJh4YCKM.temperature'
+[2016-09-26 21:10:25.045] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbtwIHVW4U8SY5gep6.temperature'
+[2016-09-26 21:11:25.075] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbu9xFcBGsI0aJCN9n.temperature'
+[2016-09-26 21:12:25.110] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbuObHApw4oA8U2lm_.temperature'
+[2016-09-26 21:13:25.124] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbucG-kI8dNtTUaq4G.temperature'
+[2016-09-26 21:14:25.154] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbuquy4haNd-LvVYJa.temperature'
+[2016-09-26 21:15:25.198] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbv4_A0lwW8_3ej0wb.temperature'
+[2016-09-26 21:16:25.212] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbvJDtfpWrLguwRasI.temperature'
+[2016-09-26 21:17:25.232] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbvXsgX3UwyazIyrdy.temperature'
+[2016-09-26 21:18:25.275] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbvlXs2hrz7xHGaQd5.temperature'
+[2016-09-26 21:19:25.292] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbw-BcL1aeUPcWV49u.temperature'
+[2016-09-26 21:20:25.322] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbwDqanvKSARu2Gsxs.temperature'
+[2016-09-26 21:21:25.367] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbwSVn0mCX4r2NVFb2.temperature'
+[2016-09-26 21:22:25.380] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbwg9WlEJ8R2Gk9J2S.temperature'
+[2016-09-26 21:23:25.410] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbwuoTW0kSLyrocJb2.temperature'
+[2016-09-26 21:24:25.454] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbx8TeEhACsgI9vZUf.temperature'
+[2016-09-26 21:25:25.467] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbxN7MIUgDwtGSsoEB.temperature'
+[2016-09-26 21:26:25.498] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbxamM7KqWq5n2pSc1.temperature'
+[2016-09-26 21:27:25.544] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbxpR_f_rLIrOwNn-V.temperature'
+[2016-09-26 21:28:25.559] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSby35JmaGVJ1vj8NDV.temperature'
+[2016-09-26 21:29:25.589] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbyHkH7c-7dg1zl_3p.temperature'
+[2016-09-26 21:30:25.632] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbyWPSCiCiCSfdbSFV.temperature'
+[2016-09-26 21:31:25.648] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbyk3B9fJc0dadgAWd.temperature'
+[2016-09-26 21:32:25.678] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbyyi9XX1q2JAuljDr.temperature'
+[2016-09-26 21:33:25.695] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbzCMwSdetkkK72kPq.temperature'
+[2016-09-26 21:34:25.706] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbzR0a62hhjRbgU9t8.temperature'
+[2016-09-26 21:35:25.731] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbzefUicoanLy9T1H9.temperature'
+[2016-09-26 21:36:25.767] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSbztKZPyQvwEc6-uNh.temperature'
+[2016-09-26 21:37:25.783] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc-6zGskd37ll7e_dK.temperature'
+[2016-09-26 21:38:25.809] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc-LdCCYG-25MQGdZk.temperature'
+[2016-09-26 21:39:25.815] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc-_HnFGbqdGeIAsF9.temperature'
+[2016-09-26 21:40:25.830] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc-nwX8J9hfaEMBxNw.temperature'
+[2016-09-26 21:41:25.862] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc01aU-SsVs-fxLj3A.temperature'
+[2016-09-26 21:42:25.866] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc0GF5f6PT05gxYbal.temperature'
+[2016-09-26 21:43:25.867] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc0UtbSCdYB3mLdvf1.temperature'
+[2016-09-26 21:44:25.895] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc0iYZLoy5kylFqvkV.temperature'
+[2016-09-26 21:45:25.903] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc0xCBiNOTtfTcuNUS.temperature'
+[2016-09-26 21:46:25.906] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc1AqiDG-XeY1PD0xw.temperature'
+[2016-09-26 21:47:25.936] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc1PVgVa6DZ2pzFANV.temperature'
+[2016-09-26 21:48:25.938] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc1d9Ep35xw62FdhK6.temperature'
+[2016-09-26 21:49:25.954] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc1rnyob2tQQLuO0b5.temperature'
+[2016-09-26 21:50:25.975] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc25SoZr0BJikGSv3_.temperature'
+[2016-09-26 21:51:25.995] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc2K6cKowWLZcJWJzv.temperature'
+[2016-09-26 21:52:26.005] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc2YlHOvl1_y95KIP3.temperature'
+[2016-09-26 21:53:26.031] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc2mQB_XmMKEzmlqaf.temperature'
+[2016-09-26 21:54:26.075] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc304NkyUUCNM22hom.temperature'
+[2016-09-26 21:55:26.077] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc3EiuaHSGk_BhVChg.temperature'
+[2016-09-26 21:56:26.081] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc3TNTl3mmjgumpLYH.temperature'
+[2016-09-26 21:57:26.127] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc3h1ggcebFCIj2qAI.temperature'
+[2016-09-26 21:58:26.130] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc3vgEekCk-Br4mtoY.temperature'
+[2016-09-26 21:59:26.135] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc49Kojukxkt81_mol.temperature'
+[2016-09-26 22:00:26.153] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc4Nz_9vu9Ffnc7OnW.temperature'
+[2016-09-26 22:01:26.168] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc4bdJ6Lr8QSF787mj.temperature'
+[2016-09-26 22:02:26.196] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc4qIGU832yjUG_TRS.temperature'
+[2016-09-26 22:03:26.211] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc53x-UVDw897YeSe0.temperature'
+[2016-09-26 22:04:26.227] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc5IajoWiZYL1uliLd.temperature'
+[2016-09-26 22:05:26.255] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc5XFgjvF-rM0-PiB8.temperature'
+[2016-09-26 22:06:26.257] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc5kuD7XrWHN2Al8i-.temperature'
+[2016-09-26 22:07:26.266] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc5zYqOrl6g3FurNG-.temperature'
+[2016-09-26 22:08:26.286] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc6DCfavTBBPuiGatG.temperature'
+[2016-09-26 22:09:26.328] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc6RrpbAd4vAooTBpK.temperature'
+[2016-09-26 22:10:26.345] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc6fW_daYpGuqIq0SK.temperature'
+[2016-09-26 22:11:26.374] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc6uAYzarDa3U5hgJE.temperature'
+[2016-09-26 22:12:26.420] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc77pkoHuaTVZXgDZG.temperature'
+[2016-09-26 22:13:26.425] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc7MUKx5h-r1mdrtvF.temperature'
+[2016-09-26 22:14:26.455] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc7a8IQzFsdJ01XIOY.temperature'
+[2016-09-26 22:15:26.499] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc7onUKDis3s_3gD6j.temperature'
+[2016-09-26 22:16:26.515] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc82SEDPBksXowdQjh.temperature'
+[2016-09-26 22:17:26.546] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc8H6DC6U3P7sc5u1B.temperature'
+[2016-09-26 22:18:26.591] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc8VlQo998qmKMXbUf.temperature'
+[2016-09-26 22:19:26.605] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc8jQ9OMJ3WJNtH_yV.temperature'
+[2016-09-26 22:20:26.616] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc8y3oF22Hq5AWpus6.temperature'
+[2016-09-26 22:21:26.655] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc9BiwT7r9JWMbGWWw.temperature'
+[2016-09-26 22:22:26.670] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc9QNenvryeguRU97f.temperature'
+[2016-09-26 22:23:26.695] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc9e1ZHHIEnCb7XrW4.temperature'
+[2016-09-26 22:24:26.740] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KSc9sgkb122Ycg9sPVj.temperature'
+[2016-09-26 22:25:26.748] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScA6LNcCACUuLPZoa9.temperature'
+[2016-09-26 22:26:26.776] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScAL-KDFZsuqGDAXWY.temperature'
+[2016-09-26 22:27:26.779] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScAZdrvcnrYIuLG0qi.temperature'
+[2016-09-26 22:28:26.792] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScAnI_hNJkMfkQR2hA.temperature'
+[2016-09-26 22:29:26.810] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScB0xL1KkWeU0WY70z.temperature'
+[2016-09-26 22:30:26.853] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScBFbXhfPYrUD1vmt6.temperature'
+[2016-09-26 22:31:26.860] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScBUG75gYua5zbCQBh.temperature'
+[2016-09-26 22:32:26.889] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScBhv5UNiEM03UTCbF.temperature'
+[2016-09-26 22:33:26.897] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScBwZiCEQOxRHbwnU_.temperature'
+[2016-09-26 22:34:26.912] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScCADR5TGdZOVOuBX7.temperature'
+[2016-09-26 22:35:26.941] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScCOsP43ZDb8qj6cJm.temperature'
+[2016-09-26 22:36:26.987] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScCcXbrOzktOV2gwmz.temperature'
+[2016-09-26 22:37:26.990] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScCrB9_EVhGpZdJLky.temperature'
+[2016-09-26 22:38:27.018] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScD4q6XZVpMblifqu-.temperature'
+[2016-09-26 22:39:27.063] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScDJVIpizYp5CTDtvO.temperature'
+[2016-09-26 22:40:27.077] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScDY91NJfbcNJq7wef.temperature'
+[2016-09-26 22:41:27.084] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScDlnd-LyeF_xTzLU3.temperature'
+[2016-09-26 22:42:27.087] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScE-SBwGoKn0WMPb7c.temperature'
+[2016-09-26 22:43:27.103] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScEE5vs1I-Ea1LtHa8.temperature'
+[2016-09-26 22:44:27.126] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScESkmiGu7F958I_BF.temperature'
+[2016-09-26 22:45:27.130] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScEgPM5NXtKW7RTB0d.temperature'
+[2016-09-26 22:46:27.145] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScEv35uA6vTxKqlbWR.temperature'
+[2016-09-26 22:47:27.162] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScF8hqrlRmZUoHjM65.temperature'
+[2016-09-26 22:48:27.207] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScFNN3COLN4mgWWQ1I.temperature'
+[2016-09-26 22:49:27.223] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScFb0nUFVfTNOFgfEu.temperature'
+[2016-09-26 22:50:27.251] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScFpfk8nTf-pppWQQI.temperature'
+[2016-09-26 22:51:27.265] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScG3KTkEvJv4kog1Kl.temperature'
+[2016-09-26 22:52:27.279] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScGHzBRahw2lroNSnq.temperature'
+[2016-09-26 22:53:27.308] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScGWd8GFNH3F2_um_M.temperature'
+[2016-09-26 22:54:27.353] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScGkIKMzHu15VdZNrq.temperature'
+[2016-09-26 22:55:27.367] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScGyx306qA61cRckah.temperature'
+[2016-09-26 22:56:27.395] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScHCb-VQ9oT1qmKcTe.temperature'
+[2016-09-26 22:57:27.440] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScHRGBiu0EZH9_VaRG.temperature'
+[2016-09-26 22:58:27.443] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScHeukMEhDsQgsai-t.temperature'
+[2016-09-26 22:59:27.473] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScHtZisSDddagPRpeK.temperature'
+[2016-09-26 23:00:27.493] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScI7DWTvbgqriehBAX.temperature'
+[2016-09-26 23:01:27.510] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScILsHZEIeEnnH8rE5.temperature'
+[2016-09-26 23:02:27.532] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScI_X7Fr6LqzJJKWG6.temperature'
+[2016-09-26 23:03:27.539] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScIoAkAAhY8qSHDKSp.temperature'
+[2016-09-26 23:04:27.554] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScJ1pTJ09gUFC_0v4F.temperature'
+[2016-09-26 23:05:27.583] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScJGUQIaRtgMfA-3cm.temperature'
+[2016-09-26 23:06:27.624] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScJV8ZeTPB2iIxCjVr.temperature'
+[2016-09-26 23:07:27.636] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScJinFSsDGwx4e_epX.temperature'
+[2016-09-26 23:08:27.666] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScJxSDFFxAw6X106YU.temperature'
+[2016-09-26 23:09:27.685] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScKB6-Vo_4Tckh9u3q.temperature'
+[2016-09-26 23:10:27.697] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScKPkicagO4vtG6pkk.temperature'
+[2016-09-26 23:11:27.727] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScKdPgdaMEPGeZHZPp.temperature'
+[2016-09-26 23:12:27.772] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScKs3shpwsOE4FZXZ8.temperature'
+[2016-09-26 23:13:27.786] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScL5ia9e6PDuSstDke.temperature'
+[2016-09-26 23:14:27.799] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScLKNIxCQs_e0ZExIc.temperature'
+[2016-09-26 23:15:27.843] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScLZ1Ubd9Z-F2a3K50.temperature'
+[2016-09-26 23:16:27.855] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScLmgBkV0lDCtpSduX.temperature'
+[2016-09-26 23:17:27.884] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScM0L8_pcm_FkQ89WP.temperature'
+[2016-09-26 23:18:27.894] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScMEzn2UF4nyXbZ40G.temperature'
+[2016-09-26 23:19:27.908] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScMTdWp1EroyehRpYY.temperature'
+[2016-09-26 23:20:27.937] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScMhIS6RTHCIZ6WOWf.temperature'
+[2016-09-26 23:21:27.940] [FATAL] temperature - Uncaught exception: Error: Firebase.set failed: First argument contains undefined in property 'temperatures.-KScMvx-JXAmYP475WGN.temperature'
